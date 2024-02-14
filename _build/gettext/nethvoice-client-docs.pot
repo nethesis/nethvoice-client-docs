@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NethVoice client \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-14 13:29+0000\n"
+"POT-Creation-Date: 2024-02-14 15:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,26 +16,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../../app_manual.rst:5
+#: ../../cti_manual.rst:5
+#: ../../link_manual.rst:5
+msgid "Manuale"
+msgstr ""
+
+#: ../../app_manual.rst:7
+msgid "NethVoice APP è il client mobile di `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_"
+msgstr ""
+
+#: ../../app_manual.rst:12
+#: ../../cti_manual.rst:12
+#: ../../link_manual.rst:12
+msgid "Accesso"
+msgstr ""
+
+#: ../../cti_manual.rst:7
+msgid "NethVoice CTI è il client web di `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_"
+msgstr ""
+
 #: ../../index.rst:9
-msgid "Contents:"
+msgid "About"
+msgstr ""
+
+#: ../../index.rst:16
+msgid "NethVoice CTI"
+msgstr ""
+
+#: ../../index.rst:22
+msgid "NethVoice APP"
+msgstr ""
+
+#: ../../index.rst:28
+msgid "NethLink"
 msgstr ""
 
 #: ../../index.rst:7
 msgid "NethVoice client"
 msgstr ""
 
-#: ../../index.rst:16
-msgid "Indici e tabelle"
-msgstr ""
-
-#: ../../index.rst:18
-msgid ":ref:`genindex`"
-msgstr ""
-
-#: ../../index.rst:19
-msgid ":ref:`modindex`"
-msgstr ""
-
-#: ../../index.rst:20
-msgid ":ref:`search`"
+#: ../../link_manual.rst:7
+msgid "NethLink è"
 msgstr ""
