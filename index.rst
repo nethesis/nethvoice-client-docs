@@ -8,13 +8,25 @@ NethVoice client
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: About
 
+   introduction
+   release_notes
 
+.. toctree::
+   :maxdepth: 2
+   :caption: NethVoice CTI
 
-Indici e tabelle
-================
+   cti_manual
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+   :caption: NethVoice APP
+
+   app_manual
+
+.. toctree::
+   :maxdepth: 2
+   :caption: NethLink
+
+   link_manual
