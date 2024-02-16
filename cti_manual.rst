@@ -22,8 +22,10 @@ I Browser attualmente supportati sono:
  - Microsoft Edge
  - Mozilla Firefox
 
-Gestire lo stato
+Gestire la Presence
 #######
+
+La funzione "Presence" permette di modificare il proprio stato e renderlo noto ai colleghi.
 
 
 Profilo ed Impostazioni
