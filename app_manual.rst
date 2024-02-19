@@ -21,7 +21,8 @@ Chiamata Rapida
 
 - Aggiunta contatto
 - BLF / Presence
-
+- Nome e Cognome
+- Numero interno
 
 Storico
 #######
