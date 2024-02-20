@@ -12,7 +12,7 @@ Accesso
 L'accesso avviene tramite browser.
 L'url di collegamento e le credenziali vengono comunicate in fase di installazione.
 
-.. WARNING:: Ci va uno screenshot
+.. warning:: SCRENSHOT
 
 Browser Supportati
 ------------------
@@ -27,20 +27,28 @@ Gestire la Presence
 
 La funzione "Presence" permette di modificare il proprio stato e renderlo noto ai colleghi.
 
-SCREENSHOT
-
+.. warning:: SCRENSHOT
 
 Profilo ed Impostazioni
 -----------------------
+.. warning:: SCRENSHOT
 
-Effettuare e gestire chiamate
------------------------------
+Dispositivo Telefonico
+----------------------
+.. warning:: SCRENSHOT
+
+Effettuare e gestire chiamate (Phone Island)
+--------------------------------------------
+.. warning:: SCRENSHOT
 
 Panello operatore
 -----------------
+.. warning:: SCRENSHOT
 
 Fuori Orario
 ------------
+.. warning:: SCRENSHOT
 
 Conferenza Telefonica
 ---------------------
+.. warning:: SCRENSHOT
