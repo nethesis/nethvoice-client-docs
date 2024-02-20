@@ -12,7 +12,7 @@ Accesso
 L'accesso avviene tramite browser.
 L'url di collegamento e le credenziali vengono comunicate in fase di installazione.
 
-.. SCREENSHOT::
+.. WARNING:: Ci va uno screenshot
 
 Browser Supportati
 ------------------
