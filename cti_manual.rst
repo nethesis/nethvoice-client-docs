@@ -12,20 +12,22 @@ Accesso
 L'accesso avviene tramite browser.
 L'url di collegamento e le credenziali vengono comunicate in fase di installazione.
 
-SCREENSHOT
+.. SCREENSHOT::
 
 Browser Supportati
 ------------------
 
 I Browser attualmente supportati sono:
- - Google Chrome
- - Microsoft Edge (DA VERIFICARE)
- - Mozilla Firefox
+ * Google Chrome
+ * Microsoft Edge (DA VERIFICARE)
+ * Mozilla Firefox
 
 Gestire la Presence
 -------------------
 
 La funzione "Presence" permette di modificare il proprio stato e renderlo noto ai colleghi.
+
+SCREENSHOT
 
 
 Profilo ed Impostazioni
