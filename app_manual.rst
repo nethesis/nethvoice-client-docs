@@ -24,10 +24,12 @@ Accesso
 L'accesso al proprio interno può avvenire in due modi:
 * Scansione del Codice QR;
 * Inserendo le credenziali di login.
+.. warning:: SCRENSHOT
 
 Gestire la Presence
 -------------------
-
+.. warning:: SCRENSHOT
 
 Accedere alla rubrica
 ---------------------
+.. warning:: SCRENSHOT
