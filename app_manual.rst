@@ -20,9 +20,9 @@ Accesso
 
 Aprire l'app ed effettuare l'accesso che potrà essere fatto in due modalità :
 
-1) tramite QR-CODDE
+1) tramite QR-Code
 
-In questa modalità di accesso, si utilizza la fotocamera del proprio telefono per scannerizzare un QR-CODE generato sul CTI di NethVoice. L'applicazione potrebbe richiedere l'autorizzazione per accedere alla fotocamera. Per generare il QR-CODE, è necessario accedere al CTI, navigare fino alla pagina "Impostazioni", selezionare "App Mobile", e infine fare clic su "Genera QR-CODE". Il sistema chiederà conferma per generare il nuovo QR-CODE; facendo clic su "Genera", comparirà un'immagine contenente il QR-CODE, con la possibilità di scaricarla per conservarla.
+In questa modalità di accesso, si utilizza la fotocamera del proprio telefono per scannerizzare un QR-Code generato sul CTI di NethVoice. L'applicazione potrebbe richiedere l'autorizzazione per accedere alla fotocamera. Per generare il QR-Code, è necessario accedere al CTI, navigare fino alla pagina "Impostazioni", selezionare "App Mobile", e infine fare clic su "Genera QR-Code". Il sistema chiederà conferma per generare il nuovo QR-Code; facendo clic su "Genera", comparirà un'immagine contenente il QR-Code, con la possibilità di scaricarla per conservarla.
 
 2) Manualmente
 
