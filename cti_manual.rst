@@ -71,7 +71,7 @@ Controlla le chiamate in arrivo oppure in gestione da parte dei colleghi.
 Con il bottone "Accedi\Esci" puoi entrare o uscire da una specifica coda.
 Con il pulsante "Pausa" puoi temporaneamente evitare di ricevere telefonate.
 Tramite un unico bottone puoi gestire tutte le code contemporaneamente:
-.. warning:: SCRENSHOT Code Accesso
+.. image:: _static/Code_Accesso.png
 
 Chiamate:
 ^^^^^^^^^
