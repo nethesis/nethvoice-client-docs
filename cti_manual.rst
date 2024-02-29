@@ -10,17 +10,17 @@ Consente di telefonare e collaborare con clienti e colleghi tramite il tuo brows
 
 Come Accedere
 -------------
-.. warning:: SCRENSHOT Pagina Login
+.. image:: _static/Pagina_Login.png
 L'accesso avviene tramite browser Web.
 Il link di collegamento e le credenziali di accesso sono specifiche dell'installazione e vengono comunicate in fase di avviamento.
 
 Effettuare e gestire chiamate
 -----------------------------
 Per poter chiamare puoi digitare il numero di telefono, oppure cercare il nome o numero del tuo contatto nella barra "Cerca o componi".
-.. warning:: SCRENSHOT Chiamare
+.. image:: _static/Chiamare.png
 
 Durante la chiamata si aprirà la *Phone Island*:
-.. warning:: SCRENSHOT Phone Island
+.. image:: _static/Phone_Island.png
 
 La *Phone Island* è il nuovo strumento dedicato alla gestione della telefonata.
 
@@ -39,20 +39,20 @@ Cliccando sul tuo Avatar NethVoice CTI ti consente di gestire la tua Presence ed
 
 Presence
 ^^^^^^^^
-.. warning:: SCRENSHOT Presence
+.. image:: _static/Presence.png
 
 Comunica ai tuoi colleghi il tuo stato telefonico per far sapere se sei presente o se non puoi ricevere telefonate.
 Il colore del tuo stato cambierà di conseguenza.
 
 Dispositivo principale
 ^^^^^^^^^^^^^^^^^^^^^^
-.. warning:: SCRENSHOT Dispositivo Principale
+.. image:: _static/Dispositivo_Principale.png
 
 Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare.
 
 Panello operatore
 -----------------
-.. warning:: SCRENSHOT Pannello Operatore
+.. image:: _static/Pannello_Operatore.png
 
 Ti permette di visualizzare in tempo reale lo stato dei tuoi colleghi.
 
@@ -60,7 +60,7 @@ Da qui puoi chiamarli, controllarne la disponibilità, filtrare ed organizzarne 
 
 Code
 ----
-.. warning:: SCRENSHOT Code
+.. image:: _static/Code.png
 
 Se utilizzi le *Code* da qui puoi controllarle.
 
@@ -75,7 +75,7 @@ Tramite un unico bottone puoi gestire tutte le code contemporaneamente:
 
 Chiamate:
 ^^^^^^^^^
-.. warning:: SCRENSHOT Code Chiamate
+.. image:: _static/Code_Chiamate.png
 
 Verifica se hai perso qualche chiamata e richiama i tuoi clienti.
 
@@ -87,7 +87,7 @@ Controlla le tue statiche telefoniche all'interno delle code.
 
 Impostazioni
 ------------
-.. warning:: SCRENSHOT Impostazioni
+.. image:: _static/Impostazioni.png
 
 Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni.
 
