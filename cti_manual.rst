@@ -81,7 +81,7 @@ Verifica se hai perso qualche chiamata e richiama i tuoi clienti.
 
 Statistiche:
 ^^^^^^^^^^^^
-.. warning:: SCRENSHOT Code Statistiche
+.. image:: _static/Code_Statistiche.png
 
 Controlla le tue statiche telefoniche all'interno delle code.
 
