@@ -17,9 +17,11 @@ Il link di collegamento e le credenziali di accesso sono specifiche dell'install
 Effettuare e gestire chiamate
 -----------------------------
 Per poter chiamare puoi digitare il numero di telefono, oppure cercare il nome o numero del tuo contatto nella barra "Cerca o componi".
+
 .. image:: _static/Chiamare.png
 
 Durante la chiamata si aprirà la *Phone Island*:
+
 .. image:: _static/Phone_Island.png
 
 La *Phone Island* è il nuovo strumento dedicato alla gestione della telefonata.
@@ -66,12 +68,13 @@ Se utilizzi le *Code* da qui puoi controllarle.
 
 Gestione delle code:
 ^^^^^^^^^^^^^^^^^^^^
-.. warning:: SCRENSHOT Code
+.. image:: _static/Code.png
 Controlla le chiamate in arrivo oppure in gestione da parte dei colleghi.
 Con il bottone "Accedi\Esci" puoi entrare o uscire da una specifica coda.
 Con il pulsante "Pausa" puoi temporaneamente evitare di ricevere telefonate.
 Tramite un unico bottone puoi gestire tutte le code contemporaneamente:
-.. image:: _static/Code_Accesso.png
+
+.. image:: _static/Code_accesso.png
 
 Chiamate:
 ^^^^^^^^^
