@@ -119,7 +119,7 @@ Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni.
 
 Da qui puoi vedere:
  * Dispositivi: ti consente di controllare i tuoi telefoni ed il loro stato;
- * App mobile: genera il codice QR per collegare il tuo smarphone https://docs.nethvoice.it/it/latest/cti_manual.html (soggetto a specifico permesso);
+ * App mobile: genera il codice QR per collegare il tuo smartphone https://docs.nethvoice.it/it/latest/cti_manual.html (soggetto a specifico permesso);
  * Scheda cliente: controlla come si comporta la scheda cliente (soggetto a specifico permesso);
  * Code: decidi come automatizzare il tuo accesso alle code (soggetto a specifico permesso);
  * Immagine profilo: modifica il tuo avatar;
