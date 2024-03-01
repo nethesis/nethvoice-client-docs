@@ -153,7 +153,7 @@ Gestore Code
 ------------
 Il supervisore delle code può amministrare da qui il centralino telefonico (soggetto a specifico permesso):
 
-.. image:: _static/AAAAAA
+.. image:: _static/Gestore_Code.png
    :width: 200
 
 
@@ -161,7 +161,7 @@ Dashboard:
 ^^^^^^^^^^
 Riepilogo della situazione:
 
-.. image:: _static/AAAAAAA.png
+.. image:: _static/Gestore_Code.png
    :width: 200
 
 
@@ -169,7 +169,7 @@ Gestione code:
 ^^^^^^^^^^^^^^
 Riepilogo della situazione:
 
-.. image:: _static/AAAAAAA.png
+.. image:: _static/Gestore_Code_Gestione_Code.png
    :width: 200
 
 
@@ -177,15 +177,15 @@ Clienti non gestiti:
 ^^^^^^^^^^^^^^^^^^^^
 Riepilogo della situazione:
 
-.. image:: _static/AAAAAAA.png
+.. image:: _static/Gestore_Code_Clienti_non_gestiti.png
    :width: 200
 
 
 In tempo reale:
 ^^^^^^^^^^^^^^^
-Riepilogo della situazione:
+Riepilogo della situazione delle code in tempo reale:
 
-.. image:: _static/AAAAAAA.png
+.. image:: _static/Gestore_Code_In_tempo_Reale.png
    :width: 200
 
 
@@ -193,7 +193,7 @@ Statistiche:
 ^^^^^^^^^^^^
 Riepilogo della situazione:
 
-.. image:: _static/AAAAAAA.png
+.. image:: _static/Gestore_Code_Statistiche.png
    :width: 200
 
 
