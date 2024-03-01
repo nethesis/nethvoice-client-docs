@@ -38,22 +38,35 @@ Dopo aver effettuato l'accesso utilizzando una delle due modalità descritte, l'
 Chiamata Rapida
 #######
 
-- Aggiunta contatto
-- BLF / Presence
-- Nome e Cognome
-- Numero interno
+Nella sezione "Chiamata Rapida" è possibile aggiungere o gestire la lista dei contatti preferiti al fine di tenere sotto controllo la presenza dei contatti aggiunti. Sopra ogni contatto aggiunto sarà visualizzato lo stato, indicando "Disponibile" in verde se il contatto non è in chiamata, "Sta squillando" in arancione quando il contatto sta ricevendo una chiamata e "Non disponibile" nel momento in cui il contatto è impegnato in una chiamata.
+
+Per aggiungere un contatto alla lista, è necessario fare clic su "Modifica" e poi premere su "+". A questo punto verrà richiesto di inserire il Titolo (Nome e Cognome), il Numero o l'indirizzo SIP (numero interno) e controllare lo Stato che monitora gli stati dell'interno. È possibile anche aggiungere una foto del contatto o importarlo direttamente dalla Rubrica. Successivamente, è necessario salvare il contatto per poterlo visualizzare nella lista dei contatti.
 
 Storico
 #######
 
-- Tutte
-- Perse
-- Registrato
+All'interno della sezione "Storico", sono presenti tre sottosezioni attraverso le quali è possibile visualizzare tutte le chiamate gestite, perse e ricevute. Nella sezione "Perse", è presente un filtro che mostra solo le chiamate ricevute alle quali non abbiamo risposto. Nella sottosezione "Registrato", sono elencate tutte le chiamate registrate; cliccando sull'icona "i" di informazione, si accede a una pagina dove è possibile ascoltare la registrazione. Cliccando di nuovo sull'icona "i", è possibile cancellare la registrazione, inviarla tramite e-mail, condividerla con altre app esterne o bloccare la registrazione per prevenirne la cancellazione.
 
+Con la voce "Modifica" sulla sottezione "Tutte", è possibile cancellare tutte le chiamate oppure selezionare quelle che si desidera eliminare. Accanto alla voce "Modifica", è presente un pulsante che consente di esportare tutte le chiamate, generando un file di testo contenente i dati relativi alle chiamate.
 
 
 Tastierino
 #######
+
+Nella sezione "Tastierino", è possibile comporre un numero per effettuare una chiamata o aggiungere un nuovo contatto o aggiungere il numero appena digitato a un contatto esistente nella Rubrica. In basso a destra comparirà il tasto "Cancella" per eliminare l'ultimo numero o i numeri appena digitati.
+
+
+Effettuare una chiamata
+===========
+
+Per effettuare una chiamata con l'app NethVoice è un'operazione molto semplice e può essere eseguita sia dal Tastierino che dalla Rubrica selezionando il contatto desiderato. Dopo aver composto il numero da chiamare, basta premere sull'icona verde del telefono per avviare la chiamata. Durante la chiamata, comparirà una schermata con i seguenti pulsanti:
+
+1) *Tastierino*: per digitare numeri durante la chiamata.
+2) *Metti in attesa*: per mettere in pausa la chiamata in modo che l'interlocutore non ci senta, ma sentirà una musica di attesa.
+3) *Registra*: permette di registrare la chiamata in corso.
+4) *Trasferisci*: per trasferire la chiamata in modalità cieca, senza poter parlare direttamente al destinatario.
+5) *Aggiungi alla chiamata*: per aggiungere un altro interlocutore interno o un numero esterno alla chiamata (conferenza). Durante la conferenza, comparirà il pulsante "Dividi", che consente di gestire la conferenza chiamata e, alternando tra le chiamate, di chiudere la comunicazione con uno dei due contatti e continuare con l'altra persona.
+6) *Trasferimento assistito*: per trasferire la chiamata in modalità consultativa, cioè dopo aver parlato con il destinatario per ottenere il suo consenso al trasferimento.
 
 Contatti
 #######
@@ -61,15 +74,6 @@ Contatti
 - Rubrica locale
 - Rubrica NethVoice
 
-Effettuare una chiamata
-#######
-
-- Tastierino
-- Metti in attesa
-- Registra
-- Traaferisci
-- Aggiungi alla chiamata
-- Trasferimento assistito
 
 Videocall
 #######
