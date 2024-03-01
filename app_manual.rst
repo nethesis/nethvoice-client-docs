@@ -57,7 +57,7 @@ Nella sezione "Tastierino", è possibile comporre un numero per effettuare una c
 
 
 Effettuare una chiamata
-===========
+========================
 
 Per effettuare una chiamata con l'app NethVoice è un'operazione molto semplice e può essere eseguita sia dal Tastierino che dalla Rubrica selezionando il contatto desiderato. Dopo aver composto il numero da chiamare, basta premere sull'icona verde del telefono per avviare la chiamata. Durante la chiamata, comparirà una schermata con i seguenti pulsanti:
 
@@ -90,7 +90,8 @@ Impostazioni
 
 Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'angolo in alto a destra, che rappresenta le "Impostazioni". Qui potrai accedere a diverse opzioni:
 
-1) **Preferenze**:
+1) **Preferenze**: 
+
    - *Suonerie*: Per impostare una suoneria diversa da quella predefinita.
    - *Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e supporto Bluetooth.
    - *Registrazione delle chiamate*: Per attivare la registrazione automatica di tutte le chiamate, con possibilità di scegliere formato e configurazioni avanzate.
