@@ -11,6 +11,7 @@ Consente di telefonare e collaborare con clienti e colleghi tramite il tuo brows
 Come Accedere
 -------------
 .. image:: _static/Pagina_Login.png
+
 L'accesso avviene tramite browser Web.
 Il link di collegamento e le credenziali di accesso sono specifiche dell'installazione e vengono comunicate in fase di avviamento.
 
@@ -20,9 +21,11 @@ Per poter chiamare puoi digitare il numero di telefono, oppure cercare il nome o
 
 .. image:: _static/Chiamare.png
 
+
 Durante la chiamata si aprirà la *Phone Island*:
 
 .. image:: _static/Phone_Island.png
+
 
 La *Phone Island* è il nuovo strumento dedicato alla gestione della telefonata.
 
@@ -43,12 +46,14 @@ Presence
 ^^^^^^^^
 .. image:: _static/Presence.png
 
+
 Comunica ai tuoi colleghi il tuo stato telefonico per far sapere se sei presente o se non puoi ricevere telefonate.
 Il colore del tuo stato cambierà di conseguenza.
 
 Dispositivo principale
 ^^^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/Dispositivo_Principale.png
+
 
 Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare.
 
@@ -72,11 +77,14 @@ Code
 ----
 .. image:: _static/Code.png
 
+
 Se utilizzi le *Code* da qui puoi controllarle.
 
 Gestione delle code:
 ^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/Code.png
+
+
 Controlla le chiamate in arrivo oppure in gestione da parte dei colleghi.
 Con il bottone "Accedi\Esci" puoi entrare o uscire da una specifica coda.
 Con il pulsante "Pausa" puoi temporaneamente evitare di ricevere telefonate.
@@ -114,6 +122,7 @@ Applicazioni
 Impostazioni
 ------------
 .. image:: _static/Impostazioni.png
+
 
 Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni.
 
