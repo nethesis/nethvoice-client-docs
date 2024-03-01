@@ -11,7 +11,7 @@ Consente di telefonare e collaborare con clienti e colleghi tramite il tuo brows
 Come Accedere
 -------------
 .. image:: _static/Pagina_Login.png
-:width: 200
+   :width: 200
 
 
 L'accesso avviene tramite browser Web.
