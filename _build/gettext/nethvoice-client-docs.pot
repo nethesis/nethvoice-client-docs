@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NethVoice client \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-01 11:10+0000\n"
+"POT-Creation-Date: 2024-03-01 11:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,212 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../app_manual.rst:5
-#: ../../cti_manual.rst:5
-#: ../../link_manual.rst:5
-msgid "Manuale"
+msgid "Manuale NethVoice App"
 msgstr ""
 
 #: ../../app_manual.rst:7
-msgid "NethVoice APP è il client mobile di `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_"
+msgid "Svolgi le tue attività comodamente da casa, in viaggio o ovunque tu vada grazie a NethVoice, disponibile sia per dispositivi iOS che Android. Questa app ti consente di portare con te il tuo ambiente lavorativo ovunque tu sia! Consulta la rubrica telefonica aziendale e rubrica personale, effettua e ricevi chiamate, offri supporto ai clienti e partecipa a videoconferenze, il tutto direttamente dal tuo smartphone o tablet."
 msgstr ""
 
-#: ../../app_manual.rst:12
+#: ../../app_manual.rst:9
+msgid "NethVoice APP è il client mobile di `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_."
+msgstr ""
+
+#: ../../app_manual.rst:13
+msgid "Installazione"
+msgstr ""
+
+#: ../../app_manual.rst:15
+msgid "Per iniziare, è necessario scaricare l'applicazione dall'app store appropriato, in base al sistema operativo del tuo smartphone. Procedere con l'installazione dell'app iOS dall'`App Store <https://apps.apple.com/it/app/nethvoice/id6476514784>`_ oppure per Android dal `Play Store <https://play.google.com/store/apps/details?id=com.nethesis.nethvoice.it.android&hl=it&gl=US>`_."
+msgstr ""
+
+#: ../../app_manual.rst:19
 #: ../../link_manual.rst:12
 msgid "Accesso"
+msgstr ""
+
+#: ../../app_manual.rst:21
+msgid "Aprire l'app ed effettuare l'accesso che potrà essere fatto in due modalità :"
+msgstr ""
+
+#: ../../app_manual.rst:23
+msgid "tramite QR-Code"
+msgstr ""
+
+#: ../../app_manual.rst:25
+msgid "In questa modalità di accesso, si utilizza la fotocamera del proprio telefono per scannerizzare un QR-Code generato sul CTI di NethVoice. L'applicazione potrebbe richiedere l'autorizzazione per accedere alla fotocamera. Per generare il QR-Code, è necessario accedere al CTI, navigare fino alla pagina \"Impostazioni\", selezionare \"App Mobile\", e infine fare clic su \"Genera QR-Code\". Il sistema chiederà conferma per generare il nuovo QR-Code; facendo clic su \"Genera\", comparirà un'immagine contenente il QR-Code, con la possibilità di scaricarla per conservarla."
+msgstr ""
+
+#: ../../app_manual.rst:27
+msgid "Manualmente"
+msgstr ""
+
+#: ../../app_manual.rst:29
+msgid "Questa modalità di accesso consente di accedere al proprio account su NethVoice App inserendo manualmente i dati forniti dall'amministratore di sistema. Sarà necessario inserire i seguenti dati:"
+msgstr ""
+
+#: ../../app_manual.rst:31
+msgid "Nome utente: nome@dominio"
+msgstr ""
+
+#: ../../app_manual.rst:32
+msgid "Password: la stessa password utilizzata per accedere al CTI."
+msgstr ""
+
+#: ../../app_manual.rst:34
+msgid "Dopo aver effettuato l'accesso utilizzando una delle due modalità descritte, l'app guiderà attraverso le successive schermate di autorizzazione, richiedendo di concedere i permessi necessari per il suo corretto funzionamento. Potrebbe apparire una schermata relativa all'ottimizzazione della batteria e alle notifiche; assicurati di seguire attentamente le istruzioni per garantire il corretto funzionamento dell'applicazione."
+msgstr ""
+
+#: ../../app_manual.rst:39
+#: ../../cti_manual.rst:57
+msgid "Chiamata Rapida"
+msgstr ""
+
+#: ../../app_manual.rst:41
+msgid "Nella sezione \"Chiamata Rapida\" è possibile aggiungere o gestire la lista dei contatti preferiti al fine di tenere sotto controllo la presenza dei contatti aggiunti. Sopra ogni contatto aggiunto sarà visualizzato lo stato, indicando \"Disponibile\" in verde se il contatto non è in chiamata, \"Sta squillando\" in arancione quando il contatto sta ricevendo una chiamata e \"Non disponibile\" nel momento in cui il contatto è impegnato in una chiamata."
+msgstr ""
+
+#: ../../app_manual.rst:43
+msgid "Per aggiungere un contatto alla lista, è necessario fare clic su \"Modifica\" e poi premere su \"+\". A questo punto verrà richiesto di inserire il Titolo (Nome e Cognome), il Numero o l'indirizzo SIP (numero interno) e controllare lo Stato che monitora gli stati dell'interno. È possibile anche aggiungere una foto del contatto o importarlo direttamente dalla Rubrica. Successivamente, è necessario salvare il contatto per poterlo visualizzare nella lista dei contatti."
+msgstr ""
+
+#: ../../app_manual.rst:46
+#: ../../cti_manual.rst:104
+msgid "Storico"
+msgstr ""
+
+#: ../../app_manual.rst:48
+msgid "All'interno della sezione \"Storico\", sono presenti tre sottosezioni attraverso le quali è possibile visualizzare tutte le chiamate gestite, perse e ricevute. Nella sezione \"Perse\", è presente un filtro che mostra solo le chiamate ricevute alle quali non abbiamo risposto. Nella sottosezione \"Registrato\", sono elencate tutte le chiamate registrate; cliccando sull'icona \"i\" di informazione, si accede a una pagina dove è possibile ascoltare la registrazione. Cliccando di nuovo sull'icona \"i\", è possibile cancellare la registrazione, inviarla tramite e-mail, condividerla con altre app esterne o bloccare la registrazione per prevenirne la cancellazione."
+msgstr ""
+
+#: ../../app_manual.rst:50
+msgid "Con la voce \"Modifica\" sulla sottezione \"Tutte\", è possibile cancellare tutte le chiamate oppure selezionare quelle che si desidera eliminare. Accanto alla voce \"Modifica\", è presente un pulsante che consente di esportare tutte le chiamate, generando un file di testo contenente i dati relativi alle chiamate."
+msgstr ""
+
+#: ../../app_manual.rst:54
+msgid "Tastierino"
+msgstr ""
+
+#: ../../app_manual.rst:56
+msgid "Nella sezione \"Tastierino\", è possibile comporre un numero per effettuare una chiamata o aggiungere un nuovo contatto o aggiungere il numero appena digitato a un contatto esistente nella Rubrica. In basso a destra comparirà il tasto \"Cancella\" per eliminare l'ultimo numero o i numeri appena digitati."
+msgstr ""
+
+#: ../../app_manual.rst:60
+msgid "Effettuare una chiamata"
+msgstr ""
+
+#: ../../app_manual.rst:62
+msgid "Per effettuare una chiamata con l'app NethVoice è un'operazione molto semplice e può essere eseguita sia dal Tastierino che dalla Rubrica selezionando il contatto desiderato. Dopo aver composto il numero da chiamare, basta premere sull'icona verde del telefono per avviare la chiamata. Durante la chiamata, comparirà una schermata con i seguenti pulsanti:"
+msgstr ""
+
+#: ../../app_manual.rst:64
+msgid "*Tastierino*: per digitare numeri durante la chiamata."
+msgstr ""
+
+#: ../../app_manual.rst:65
+msgid "*Metti in attesa*: per mettere in pausa la chiamata in modo che l'interlocutore non ci senta, ma sentirà una musica di attesa."
+msgstr ""
+
+#: ../../app_manual.rst:66
+msgid "*Registra*: permette di registrare la chiamata in corso."
+msgstr ""
+
+#: ../../app_manual.rst:67
+msgid "*Trasferisci*: per trasferire la chiamata in modalità cieca, senza poter parlare direttamente al destinatario."
+msgstr ""
+
+#: ../../app_manual.rst:68
+msgid "*Aggiungi alla chiamata*: per aggiungere un altro interlocutore interno o un numero esterno alla chiamata (conferenza). Durante la conferenza, comparirà il pulsante \"Dividi\", che consente di gestire la conferenza chiamata e, alternando tra le chiamate, di chiudere la comunicazione con uno dei due contatti e continuare con l'altra persona."
+msgstr ""
+
+#: ../../app_manual.rst:69
+msgid "*Trasferimento assistito*: per trasferire la chiamata in modalità consultativa, cioè dopo aver parlato con il destinatario per ottenere il suo consenso al trasferimento."
+msgstr ""
+
+#: ../../app_manual.rst:71
+msgid "Sopra i seguenti pulsanti, troviamo una barra contenente i seguenti comandi:"
+msgstr ""
+
+#: ../../app_manual.rst:73
+msgid "*Microfono*: permette di disabilitare il proprio microfono (mutare)."
+msgstr ""
+
+#: ../../app_manual.rst:74
+msgid "*Altoparlante*: permette di attivare l'altoparlante per ascoltare la chiamata in vivavoce."
+msgstr ""
+
+#: ../../app_manual.rst:75
+msgid "*Videocamera*: permette di avviare una videochiamata con l'interlocutore."
+msgstr ""
+
+#: ../../app_manual.rst:78
+msgid "Contatti"
+msgstr ""
+
+#: ../../app_manual.rst:80
+msgid "Nella sezione \"Contatti\", è possibile consultare sia la Rubrica personale che quella del NethVoice, e in entrambe è possibile aggiungere o modificare i contatti. Per aggiungere un nuovo contatto, è sufficiente fare clic su \"+\", il che aprirà una finestra in cui è possibile compilare il Nome, Cognome, Società, numero di telefono ed email. Cliccando su un contatto esistente, è possibile procedere alla sua modifica, nonché effettuare una chiamata o avviare una videochiamata. È inoltre possibile impostare un Tono di Chiamata personalizzato per il contatto selezionato."
+msgstr ""
+
+#: ../../app_manual.rst:83
+msgid "Videocall"
+msgstr ""
+
+#: ../../app_manual.rst:85
+msgid "Per effettuare una videochiamata, è possibile farlo in diversi modi. Come già spiegato in precedenza, è sufficiente selezionare un utente dalla sezione Contatti e cliccare sull'icona della videocamera per avviare una videocall. In alternativa, se si effettua una chiamata a un contatto, è possibile trasformarla in una videochiamata cliccando sull'icona \"videocamera\"."
+msgstr ""
+
+#: ../../app_manual.rst:89
+#: ../../cti_manual.rst:115
+msgid "Impostazioni"
+msgstr ""
+
+#: ../../app_manual.rst:91
+msgid "Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'angolo in alto a destra, che rappresenta le \"Impostazioni\". Qui potrai accedere a diverse opzioni:"
+msgstr ""
+
+#: ../../app_manual.rst:93
+msgid "**Preferenze**:"
+msgstr ""
+
+#: ../../app_manual.rst:95
+msgid "*Suonerie*: Per impostare una suoneria diversa da quella predefinita."
+msgstr ""
+
+#: ../../app_manual.rst:96
+msgid "*Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e supporto Bluetooth."
+msgstr ""
+
+#: ../../app_manual.rst:97
+msgid "*Registrazione delle chiamate*: Per attivare la registrazione automatica di tutte le chiamate, con possibilità di scegliere formato e configurazioni avanzate."
+msgstr ""
+
+#: ../../app_manual.rst:98
+msgid "*Comandi*: Per abilitare il controllo dei pulsanti degli auricolari e gestire l'arrivo delle chiamate GSM."
+msgstr ""
+
+#: ../../app_manual.rst:99
+msgid "*Non Disturbare*: Per creare regole DND e non ricevere telefonate in determinati periodi."
+msgstr ""
+
+#: ../../app_manual.rst:100
+msgid "*Ordinamento dei contatti*: Per gestire la visualizzazione dei contatti nella Rubrica."
+msgstr ""
+
+#: ../../app_manual.rst:103
+msgid "**Informazioni**: Qui troverai le informazioni sull'app, inclusa la versione e il dispositivo in uso."
+msgstr ""
+
+#: ../../app_manual.rst:106
+msgid "**Utilizzo**: Fornisce dati statistici sulla durata delle chiamate e il conteggio complessivo delle chiamate."
+msgstr ""
+
+#: ../../app_manual.rst:109
+msgid "**Attivazione**: Consente di reimpostare l'applicazione, dissociando l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità descritte nella sezione di :ref:`Accesso`."
+msgstr ""
+
+#: ../../cti_manual.rst:5
+#: ../../link_manual.rst:5
+msgid "Manuale"
 msgstr ""
 
 #: ../../cti_manual.rst:7
@@ -115,10 +309,6 @@ msgstr ""
 msgid "Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare."
 msgstr ""
 
-#: ../../cti_manual.rst:57
-msgid "Chiamata Rapida"
-msgstr ""
-
 #: ../../cti_manual.rst:61
 msgid "Ultime Chiamate"
 msgstr ""
@@ -171,20 +361,12 @@ msgstr ""
 msgid "Rubrica"
 msgstr ""
 
-#: ../../cti_manual.rst:104
-msgid "Storico"
-msgstr ""
-
 #: ../../cti_manual.rst:108
 msgid "Gestore Code"
 msgstr ""
 
 #: ../../cti_manual.rst:112
 msgid "Applicazioni"
-msgstr ""
-
-#: ../../cti_manual.rst:115
-msgid "Impostazioni"
 msgstr ""
 
 #: ../../cti_manual.rst:118
