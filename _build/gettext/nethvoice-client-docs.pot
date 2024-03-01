@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NethVoice client \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-01 11:56+0000\n"
+"POT-Creation-Date: 2024-03-01 15:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,7 +74,7 @@ msgid "Dopo aver effettuato l'accesso utilizzando una delle due modalità descri
 msgstr ""
 
 #: ../../app_manual.rst:39
-#: ../../cti_manual.rst:57
+#: ../../cti_manual.rst:80
 msgid "Chiamata Rapida"
 msgstr ""
 
@@ -87,7 +87,8 @@ msgid "Per aggiungere un contatto alla lista, è necessario fare clic su \"Modif
 msgstr ""
 
 #: ../../app_manual.rst:46
-#: ../../cti_manual.rst:104
+#: ../../cti_manual.rst:140
+#: ../../cti_manual.rst:147
 msgid "Storico"
 msgstr ""
 
@@ -172,7 +173,7 @@ msgid "Per effettuare una videochiamata, è possibile farlo in diversi modi. Com
 msgstr ""
 
 #: ../../app_manual.rst:89
-#: ../../cti_manual.rst:115
+#: ../../cti_manual.rst:197
 msgid "Impostazioni"
 msgstr ""
 
@@ -237,195 +238,272 @@ msgstr ""
 msgid "Come Accedere"
 msgstr ""
 
-#: ../../cti_manual.rst:14
+#: ../../cti_manual.rst:17
+#: ../../cti_manual.rst:20
 msgid "L'accesso avviene tramite browser Web. Il link di collegamento e le credenziali di accesso sono specifiche dell'installazione e vengono comunicate in fase di avviamento."
 msgstr ""
 
-#: ../../cti_manual.rst:18
+#: ../../cti_manual.rst:24
 msgid "Effettuare e gestire chiamate"
 msgstr ""
 
-#: ../../cti_manual.rst:19
+#: ../../cti_manual.rst:25
 msgid "Per poter chiamare puoi digitare il numero di telefono, oppure cercare il nome o numero del tuo contatto nella barra \"Cerca o componi\"."
 msgstr ""
 
-#: ../../cti_manual.rst:23
+#: ../../cti_manual.rst:30
 msgid "Durante la chiamata si aprirà la *Phone Island*:"
 msgstr ""
 
-#: ../../cti_manual.rst:27
+#: ../../cti_manual.rst:36
 msgid "La *Phone Island* è il nuovo strumento dedicato alla gestione della telefonata."
 msgstr ""
 
-#: ../../cti_manual.rst:34
+#: ../../cti_manual.rst:43
 msgid "Tramite la *Phone Island* è possibile:"
 msgstr ""
 
-#: ../../cti_manual.rst:30
+#: ../../cti_manual.rst:39
 msgid "Mettere in pausa la telefonata;"
 msgstr ""
 
-#: ../../cti_manual.rst:31
+#: ../../cti_manual.rst:40
 msgid "Silenziare il microfono;"
 msgstr ""
 
-#: ../../cti_manual.rst:32
+#: ../../cti_manual.rst:41
 msgid "Trasferire la chiamata: una volta cliccato digitare il nome o il numero del contatto a cui vuoi trasferire;"
 msgstr ""
 
-#: ../../cti_manual.rst:33
+#: ../../cti_manual.rst:42
 msgid "Aprire il tastierino numerico;"
 msgstr ""
 
-#: ../../cti_manual.rst:34
+#: ../../cti_manual.rst:43
 msgid "Parcheggiare la telefonata (soggetto a specifico permesso);"
 msgstr ""
 
-#: ../../cti_manual.rst:36
+#: ../../cti_manual.rst:45
 msgid "La *Phone Island* è uno strumento dinamico che puoi spostare, trascindola, ovunque nello schermo."
 msgstr ""
 
-#: ../../cti_manual.rst:39
+#: ../../cti_manual.rst:48
 msgid "Gestire la Presence ed il Dispositivo principale"
 msgstr ""
 
-#: ../../cti_manual.rst:40
+#: ../../cti_manual.rst:49
 msgid "Cliccando sul tuo Avatar NethVoice CTI ti consente di gestire la tua Presence ed il tuo dispositivo telefonico principale."
 msgstr ""
 
-#: ../../cti_manual.rst:43
+#: ../../cti_manual.rst:52
 msgid "Presence"
 msgstr ""
 
-#: ../../cti_manual.rst:46
+#: ../../cti_manual.rst:56
 msgid "Comunica ai tuoi colleghi il tuo stato telefonico per far sapere se sei presente o se non puoi ricevere telefonate. Il colore del tuo stato cambierà di conseguenza."
 msgstr ""
 
-#: ../../cti_manual.rst:50
+#: ../../cti_manual.rst:60
 msgid "Dispositivo principale"
 msgstr ""
 
-#: ../../cti_manual.rst:53
+#: ../../cti_manual.rst:64
 msgid "Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare."
 msgstr ""
 
-#: ../../cti_manual.rst:61
-msgid "Ultime Chiamate"
-msgstr ""
-
-#: ../../cti_manual.rst:64
-msgid "Panello operatore"
-msgstr ""
-
-#: ../../cti_manual.rst:67
-msgid "Ti permette di visualizzare in tempo reale lo stato dei tuoi colleghi."
-msgstr ""
-
-#: ../../cti_manual.rst:69
-msgid "Da qui puoi chiamarli, controllarne la disponibilità, filtrare ed organizzarne la visualizzazione in pochi click."
+#: ../../cti_manual.rst:68
+msgid "Chiamata Rapida e Ultime Chiamate"
 msgstr ""
 
 #: ../../cti_manual.rst:72
-msgid "Code"
+msgid "Puoi aggiungere contatti da chiamare rapidamente tramite il menù di chiamata rapida."
 msgstr ""
 
-#: ../../cti_manual.rst:75
-msgid "Se utilizzi le *Code* da qui puoi controllarle."
+#: ../../cti_manual.rst:77
+msgid "Oppure visualizzare le ultime chiamate fatte o ricevute."
 msgstr ""
 
-#: ../../cti_manual.rst:78
-msgid "Gestione delle code:"
+#: ../../cti_manual.rst:84
+msgid "Ultime Chiamate"
 msgstr ""
 
-#: ../../cti_manual.rst:80
-msgid "Controlla le chiamate in arrivo oppure in gestione da parte dei colleghi. Con il bottone \"Accedi\\Esci\" puoi entrare o uscire da una specifica coda. Con il pulsante \"Pausa\" puoi temporaneamente evitare di ricevere telefonate. Tramite un unico bottone puoi gestire tutte le code contemporaneamente:"
-msgstr ""
-
-#: ../../cti_manual.rst:88
-msgid "Chiamate:"
+#: ../../cti_manual.rst:87
+msgid "Panello operatore"
 msgstr ""
 
 #: ../../cti_manual.rst:91
-msgid "Verifica se hai perso qualche chiamata e richiama i tuoi clienti."
+msgid "Ti permette di visualizzare in tempo reale lo stato dei tuoi colleghi."
 msgstr ""
 
-#: ../../cti_manual.rst:94
-msgid "Statistiche:"
+#: ../../cti_manual.rst:93
+msgid "Da qui puoi chiamarli, controllarne la disponibilità, filtrare ed organizzarne la visualizzazione in pochi click."
 msgstr ""
 
-#: ../../cti_manual.rst:97
-msgid "Controlla le tue statiche telefoniche all'interno delle code."
+#: ../../cti_manual.rst:96
+msgid "Code"
 msgstr ""
 
 #: ../../cti_manual.rst:100
-msgid "Rubrica"
+msgid "Se utilizzi le *Code* da qui puoi controllarle."
 msgstr ""
 
-#: ../../cti_manual.rst:108
-msgid "Gestore Code"
+#: ../../cti_manual.rst:103
+msgid "Gestione delle code:"
 msgstr ""
 
-#: ../../cti_manual.rst:112
-msgid "Applicazioni"
+#: ../../cti_manual.rst:107
+msgid "Controlla le chiamate in arrivo oppure in gestione da parte dei colleghi. Con il bottone \"Accedi\\Esci\" puoi entrare o uscire da una specifica coda. Con il pulsante \"Pausa\" puoi temporaneamente evitare di ricevere telefonate. Tramite un unico bottone puoi gestire tutte le code contemporaneamente:"
 msgstr ""
 
-#: ../../cti_manual.rst:118
-msgid "Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni."
+#: ../../cti_manual.rst:116
+msgid "Chiamate:"
 msgstr ""
 
-#: ../../cti_manual.rst:128
-msgid "Da qui puoi vedere:"
-msgstr ""
-
-#: ../../cti_manual.rst:121
-msgid "Dispositivi: ti consente di controllare i tuoi telefoni ed il loro stato;"
-msgstr ""
-
-#: ../../cti_manual.rst:122
-msgid "App mobile: genera il codice QR per collegare il tuo smarphone https://docs.nethvoice.it/it/latest/cti_manual.html (soggetto a specifico permesso);"
+#: ../../cti_manual.rst:120
+msgid "Verifica se hai perso qualche chiamata e richiama i tuoi clienti."
 msgstr ""
 
 #: ../../cti_manual.rst:123
-msgid "Scheda cliente: controlla come si comporta la scheda cliente (soggetto a specifico permesso);"
-msgstr ""
-
-#: ../../cti_manual.rst:124
-msgid "Code: decidi come automatizzare il tuo accesso alle code (soggetto a specifico permesso);"
-msgstr ""
-
-#: ../../cti_manual.rst:125
-msgid "Immagine profilo: modifica il tuo avatar;"
-msgstr ""
-
-#: ../../cti_manual.rst:126
-msgid "Tema: scegli il tema chiaro o scuro in base alle tue preferenze;"
+msgid "Statistiche:"
 msgstr ""
 
 #: ../../cti_manual.rst:127
+msgid "Controlla le tue statiche telefoniche all'interno delle code."
+msgstr ""
+
+#: ../../cti_manual.rst:130
+msgid "Rubrica"
+msgstr ""
+
+#: ../../cti_manual.rst:134
+msgid "Puoi visualizzare la rubrica di Nethvoice o aggiungere nuovi contatti con la funzione \"Crea Contatto\" (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:144
+msgid "Tramite comodi filtri puoi ricercare le chiamate del tuo interno, gruppo o dell'intero centralino telefonico (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:150
+msgid "Gestore Code"
+msgstr ""
+
+#: ../../cti_manual.rst:154
+msgid "Applicazioni"
+msgstr ""
+
+#: ../../cti_manual.rst:159
+msgid "Linee telefoniche e annunci:"
+msgstr ""
+
+#: ../../cti_manual.rst:163
+msgid "Qui trovi le linee telefoniche del centralino (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:167
+msgid "Dettagli linea"
+msgstr ""
+
+#: ../../cti_manual.rst:171
+msgid "Clicca sulla tua linea telefonica per controllare le chiusure. Potrai da qui controllare:"
+msgstr ""
+
+#: ../../cti_manual.rst:173
+msgid "Quando attivare la chiusura: attivare manualmente la chiusura, selezionare uno specifico giorno o un periodo di inizio e fine automatico;"
+msgstr ""
+
+#: ../../cti_manual.rst:174
+msgid "Far sentire un annuncio;"
+msgstr ""
+
+#: ../../cti_manual.rst:175
+msgid "Far sentire un annuncio e lasciare un messaggio in segreteria telefonica;"
+msgstr ""
+
+#: ../../cti_manual.rst:176
+msgid "Inoltrare la telefonata."
+msgstr ""
+
+#: ../../cti_manual.rst:180
+msgid "Annunci"
+msgstr ""
+
+#: ../../cti_manual.rst:184
+msgid "Tramite il menù Annunci puoi caricare o registrare un nuovo annuncio. Puoi anche riascoltare o eliminare gli annunci già presenti (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:187
+msgid "Sorgenti video:"
+msgstr ""
+
+#: ../../cti_manual.rst:189
+msgid "Ci stiamo lavorando. Da qui potrai vedere e controllare i tuoi videocitofoni (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:192
+msgid "PBX Report:"
+msgstr ""
+
+#: ../../cti_manual.rst:194
+msgid "La `Reportistica avanzata <https://docs.nethvoice.it/it/latest/pbxreport_manual.html>`_ del centralino telefonico (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:201
+msgid "Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni."
+msgstr ""
+
+#: ../../cti_manual.rst:211
+msgid "Da qui puoi vedere:"
+msgstr ""
+
+#: ../../cti_manual.rst:204
+msgid "Dispositivi: ti consente di controllare i tuoi telefoni ed il loro stato;"
+msgstr ""
+
+#: ../../cti_manual.rst:205
+msgid "App mobile: genera il codice QR per collegare il tuo `smartphone <https://docs.nethvoice.it/it/latest/app_manual.html>`_ (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:206
+msgid "Scheda cliente: controlla come si comporta la scheda cliente (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:207
+msgid "Code: decidi come automatizzare il tuo accesso alle code (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:208
+msgid "Immagine profilo: modifica il tuo avatar;"
+msgstr ""
+
+#: ../../cti_manual.rst:209
+msgid "Tema: scegli il tema chiaro o scuro in base alle tue preferenze;"
+msgstr ""
+
+#: ../../cti_manual.rst:210
 msgid "Integrazioni: utile per integrare la tua *Phone Island* con strumenti esterni;"
 msgstr ""
 
-#: ../../cti_manual.rst:128
+#: ../../cti_manual.rst:211
 msgid "Cache: svuotare la cache del tuo browser può aiutare a risolvere alcuni problemi di caricamento della pagina."
 msgstr ""
 
-#: ../../cti_manual.rst:131
+#: ../../cti_manual.rst:214
 msgid "Browser Supportati"
 msgstr ""
 
-#: ../../cti_manual.rst:134
+#: ../../cti_manual.rst:217
 msgid "I Browser attualmente supportati sono:"
 msgstr ""
 
-#: ../../cti_manual.rst:133
+#: ../../cti_manual.rst:216
 msgid "Google Chrome - Versione 121.0.6167.189"
 msgstr ""
 
-#: ../../cti_manual.rst:134
+#: ../../cti_manual.rst:217
 msgid "Mozilla Firefox - Versione 123.0"
 msgstr ""
 
-#: ../../cti_manual.rst:135
+#: ../../cti_manual.rst:218
 msgid "Microsoft Edge - Versione 122.0.2365.59"
 msgstr ""
 
