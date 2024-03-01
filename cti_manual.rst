@@ -201,7 +201,7 @@ Monitor:
 ^^^^^^^^
 Riepilogo della situazione:
 
-.. image:: _static/AAAAAAA.png
+.. image:: _static/Gestore_Monitor.png
    :width: 200
 
 
