@@ -52,6 +52,14 @@ Dispositivo principale
 
 Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare.
 
+
+Chiamata Rapida
+---------------
+
+
+Ultime Chiamate
+------------
+
 Panello operatore
 -----------------
 .. image:: _static/Pannello_Operatore.png
@@ -88,6 +96,21 @@ Statistiche:
 
 Controlla le tue statiche telefoniche all'interno delle code.
 
+Rubrica
+-------
+
+
+Storico
+-------
+
+
+Gestore Code
+------------
+
+
+Applicazioni
+------------
+
 Impostazioni
 ------------
 .. image:: _static/Impostazioni.png
@@ -96,7 +119,7 @@ Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni.
 
 Da qui puoi vedere:
  * Dispositivi: ti consente di controllare i tuoi telefoni ed il loro stato;
- * App mobile: genera il codice QR per collegare il tuo smarphone LINK MANUALE APP (soggetto a specifico permesso);
+ * App mobile: genera il codice QR per collegare il tuo smarphone https://docs.nethvoice.it/it/latest/cti_manual.html (soggetto a specifico permesso);
  * Scheda cliente: controlla come si comporta la scheda cliente (soggetto a specifico permesso);
  * Code: decidi come automatizzare il tuo accesso alle code (soggetto a specifico permesso);
  * Immagine profilo: modifica il tuo avatar;
@@ -107,6 +130,6 @@ Da qui puoi vedere:
 Browser Supportati
 ------------------
 I Browser attualmente supportati sono:
- * Google Chrome
- * Mozilla Firefox
- * Microsoft Edge (DA VERIFICARE)
+ * Google Chrome - Versione 121.0.6167.189
+ * Mozilla Firefox - Versione 123.0
+ * Microsoft Edge - Versione 122.0.2365.59
