@@ -58,12 +58,18 @@ Dispositivo principale
 Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare.
 
 
-Chiamata Rapida
----------------
+Chiamata Rapida e Ultime Chiamate
+---------------------------------
+.. image:: _static/Chiamata_Rapida.png
 
 
-Ultime Chiamate
-------------
+Puoi aggiungere contatti da chiamare rapidamente tramite il menù di chiamata rapida.
+
+.. image:: _static/Ultime_Chiamate_Destra.png
+
+
+Oppure visualizzare le ultime chiamate fatte o ricevute.
+
 
 Panello operatore
 -----------------
