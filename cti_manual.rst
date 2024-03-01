@@ -168,14 +168,12 @@ Tramite il menù Annunci puoi caricare o registrare un nuovo annuncio. Puoi anch
 Sorgenti video:
 ^^^^^^^^^^^^^^^
 
-
-(soggetto a specifico permesso).
+Ci stiamo lavorando. Da qui potrai vedere e controllare i tuoi videocitofoni (soggetto a specifico permesso).
 
 PBX Report:
 ^^^^^^^^^^^
 
-
-(soggetto a specifico permesso).
+La `Reportistica avanzata <https://docs.nethvoice.it/it/latest/pbxreport_manual.html>`_ del centralino telefonico (soggetto a specifico permesso).
 
 Impostazioni
 ------------
