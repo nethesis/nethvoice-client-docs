@@ -68,22 +68,43 @@ Per effettuare una chiamata con l'app NethVoice è un'operazione molto semplice 
 5) *Aggiungi alla chiamata*: per aggiungere un altro interlocutore interno o un numero esterno alla chiamata (conferenza). Durante la conferenza, comparirà il pulsante "Dividi", che consente di gestire la conferenza chiamata e, alternando tra le chiamate, di chiudere la comunicazione con uno dei due contatti e continuare con l'altra persona.
 6) *Trasferimento assistito*: per trasferire la chiamata in modalità consultativa, cioè dopo aver parlato con il destinatario per ottenere il suo consenso al trasferimento.
 
+Sopra i seguenti pulsanti, troviamo una barra contenente i seguenti comandi:
+
+1) *Microfono*: permette di disabilitare il proprio microfono (mutare).
+2) *Altoparlante*: permette di attivare l'altoparlante per ascoltare la chiamata in vivavoce.
+3) *Videocamera*: permette di avviare una videochiamata con l'interlocutore.
+
 Contatti
 #######
 
-- Rubrica locale
-- Rubrica NethVoice
+Nella sezione "Contatti", è possibile consultare sia la Rubrica personale che quella del NethVoice, e in entrambe è possibile aggiungere o modificare i contatti. Per aggiungere un nuovo contatto, è sufficiente fare clic su "+", il che aprirà una finestra in cui è possibile compilare il Nome, Cognome, Società, numero di telefono ed email. Cliccando su un contatto esistente, è possibile procedere alla sua modifica, nonché effettuare una chiamata o avviare una videochiamata. È inoltre possibile impostare un Tono di Chiamata personalizzato per il contatto selezionato.
 
 
 Videocall
-#######
+
+Per effettuare una videochiamata, è possibile farlo in diversi modi. Come già spiegato in precedenza, è sufficiente selezionare un utente dalla sezione Contatti e cliccare sull'icona della videocamera per avviare una videocall. In alternativa, se si effettua una chiamata a un contatto, è possibile trasformarla in una videochiamata cliccando sull'icona "videocamera".
+
 
 Impostazioni 
 #######
 
-Preferenze
- - Suoneria
-Informazioni
-Utilizzo
-Reimposta Applicazione
+Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'angolo in alto a destra, che rappresenta le "Impostazioni". Qui potrai accedere a diverse opzioni:
+
+1) **Preferenze**:
+   1. *Suonerie*: Per impostare una suoneria diversa da quella predefinita.
+   2. *Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e supporto Bluetooth.
+   3. *Registrazione delle chiamate*: Per attivare la registrazione automatica di tutte le chiamate, con possibilità di scegliere formato e configurazioni avanzate.
+   4. *Comandi*: Per abilitare il controllo dei pulsanti degli auricolari e gestire l'arrivo delle chiamate GSM.
+   5. *Non Disturbare*: Per creare regole DND e non ricevere telefonate in determinati periodi.
+   6. *Ordinamento dei contatti*: Per gestire la visualizzazione dei contatti nella Rubrica.
+
+2) **Informazioni**:
+   Qui troverai le informazioni sull'app, inclusa la versione e il dispositivo in uso.
+
+3) **Utilizzo**:
+   Fornisce dati statistici sulla durata delle chiamate e il conteggio complessivo delle chiamate.
+
+4) **Attivazione**:
+   Consente di reimpostare l'applicazione, dissociando l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità descritte nella sezione di Accesso.
+
 
