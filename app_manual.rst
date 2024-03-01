@@ -14,7 +14,7 @@ Installazione
 
 Per iniziare, è necessario scaricare l'applicazione dall'app store appropriato, in base al sistema operativo del tuo smartphone. Procedere con l'installazione dell'app iOS dall'`App Store <https://apps.apple.com/it/app/nethvoice/id6476514784>`_ oppure per Android dal `Play Store <https://play.google.com/store/apps/details?id=com.nethesis.nethvoice.it.android&hl=it&gl=US>`_.
 
-
+.. _Accesso:
 Accesso
 #######
 
@@ -91,12 +91,13 @@ Impostazioni
 Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'angolo in alto a destra, che rappresenta le "Impostazioni". Qui potrai accedere a diverse opzioni:
 
 1) **Preferenze**:
-   1. *Suonerie*: Per impostare una suoneria diversa da quella predefinita.
-   2. *Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e supporto Bluetooth.
-   3. *Registrazione delle chiamate*: Per attivare la registrazione automatica di tutte le chiamate, con possibilità di scegliere formato e configurazioni avanzate.
-   4. *Comandi*: Per abilitare il controllo dei pulsanti degli auricolari e gestire l'arrivo delle chiamate GSM.
-   5. *Non Disturbare*: Per creare regole DND e non ricevere telefonate in determinati periodi.
-   6. *Ordinamento dei contatti*: Per gestire la visualizzazione dei contatti nella Rubrica.
+   - *Suonerie*: Per impostare una suoneria diversa da quella predefinita.
+   - *Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e supporto Bluetooth.
+   - *Registrazione delle chiamate*: Per attivare la registrazione automatica di tutte le chiamate, con possibilità di scegliere formato e configurazioni avanzate.
+   - *Comandi*: Per abilitare il controllo dei pulsanti degli auricolari e gestire l'arrivo delle chiamate GSM.
+   - *Non Disturbare*: Per creare regole DND e non ricevere telefonate in determinati periodi.
+   - *Ordinamento dei contatti*: Per gestire la visualizzazione dei contatti nella Rubrica.
+
 
 2) **Informazioni**:
    Qui troverai le informazioni sull'app, inclusa la versione e il dispositivo in uso.
@@ -105,6 +106,6 @@ Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'an
    Fornisce dati statistici sulla durata delle chiamate e il conteggio complessivo delle chiamate.
 
 4) **Attivazione**:
-   Consente di reimpostare l'applicazione, dissociando l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità descritte nella sezione di Accesso.
+   Consente di reimpostare l'applicazione, dissociando l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità descritte nella sezione di :ref:`Accesso`.
 
 
