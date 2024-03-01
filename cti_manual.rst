@@ -151,7 +151,7 @@ Tramite comodi filtri puoi ricercare le chiamate del tuo interno, gruppo o dell'
 
 Gestore Code
 ------------
-Il supervisore delle code può amministrare da qui il centralino telefonico (soggetto a specifico permesso):
+Da qui puoi amministrare le code configurate sul centralino telefonico (soggetto a specifico permesso):
 
 .. image:: _static/Gestore_Code.png
    :width: 200
@@ -159,23 +159,24 @@ Il supervisore delle code può amministrare da qui il centralino telefonico (sog
 
 Dashboard:
 ^^^^^^^^^^
-Riepilogo della situazione:
+Visualizza un riepilogo della situazione di tutte le code configurate sul sistema:
 
 .. image:: _static/Gestore_Code.png
    :width: 200
 
+Puoi vedere da qui anche grafici e statistiche. 
 
 Gestione code:
 ^^^^^^^^^^^^^^
-Riepilogo della situazione:
+Per ciascuna coda puoi vedere il dettaglio delle chiamate gestite e governare il comportamento degli agenti:
 
 .. image:: _static/Gestore_Code_Gestione_Code.png
    :width: 200
-
+ 
 
 Clienti non gestiti:
 ^^^^^^^^^^^^^^^^^^^^
-Riepilogo della situazione:
+Da qui puoi verificare velocemente se tutte le chiamate sono state risposte:
 
 .. image:: _static/Gestore_Code_Clienti_non_gestiti.png
    :width: 200
@@ -188,10 +189,11 @@ Riepilogo della situazione delle code in tempo reale:
 .. image:: _static/Gestore_Code_In_tempo_Reale.png
    :width: 200
 
+Si possono filtrare le singole code o i singoli operatoti per verificarne l'andamento della giornata lavorativa.
 
 Statistiche:
 ^^^^^^^^^^^^
-Riepilogo della situazione:
+Grafici di riepilogo della situazione delle code:
 
 .. image:: _static/Gestore_Code_Statistiche.png
    :width: 200
@@ -199,7 +201,7 @@ Riepilogo della situazione:
 
 Monitor:
 ^^^^^^^^
-Riepilogo della situazione:
+Visualizza su un monitor l'elenco delle chiamate in coda:
 
 .. image:: _static/Gestore_Monitor.png
    :width: 200
