@@ -12,6 +12,7 @@ Come Accedere
 -------------
 .. image:: _static/Pagina_Login.png
 
+
 L'accesso avviene tramite browser Web.
 Il link di collegamento e le credenziali di accesso sono specifiche dell'installazione e vengono comunicate in fase di avviamento.
 
@@ -112,7 +113,15 @@ Controlla le tue statiche telefoniche all'interno delle code.
 
 Rubrica
 -------
+.. image:: _static/Rubrica_Sinistra.png
 
+
+Puoi visualizzare la rubrica di Nethvoice o aggiungere nuovi contatti con la funzione "Crea Contatto" (soggetto a specifico permesso).
+
+.. image:: _static/Crea_Contatto.png
+
+
+Inserisci contatti privati  contatti possono essere privati o p
 
 Storico
 -------
