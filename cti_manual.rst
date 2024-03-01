@@ -118,14 +118,15 @@ Rubrica
 
 Puoi visualizzare la rubrica di Nethvoice o aggiungere nuovi contatti con la funzione "Crea Contatto" (soggetto a specifico permesso).
 
-.. image:: _static/Crea_Contatto.png
+.. image:: _static/crea_contatto.png
 
-
-Inserisci contatti privati  contatti possono essere privati o p
 
 Storico
 -------
+.. image:: _static/Storico_Chiamate.png
 
+
+Tramite comodi filtri puoi ricercare le chiamate del tuo interno, gruppo o dell'intero centralino telefonico (soggetto a specifico permesso).
 
 Gestore Code
 ------------
