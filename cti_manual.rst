@@ -134,6 +134,48 @@ Gestore Code
 
 Applicazioni
 ------------
+.. image:: _static/Applicazioni.png
+
+
+Linee telefoniche e annunci:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/Linee_telefoniche_e_annunci_gestione_linee.png
+
+
+Qui trovi le linee telefoniche del centralino (soggetto a specifico permesso).
+
+
+Dettagli linea
+~~~~~~~~~~~~~~
+.. image:: _static/Dettagli_linea.png
+
+
+Clicca sulla tua linea telefonica per controllare le chiusure.
+Potrai da qui controllare:
+ * Quando attivare la chiusura: attivare manualmente la chiusura, selezionare uno specifico giorno o un periodo di inizio e fine automatico;
+ * Far sentire un annuncio;
+ * Far sentire un annuncio e lasciare un messaggio in segreteria telefonica;
+ * Inoltrare la telefonata.
+
+
+Annunci
+~~~~~~~
+.. image:: _static/Linee_telefoniche_e_annunci_annunci.png
+
+
+Tramite il menù Annunci puoi caricare o registrare un nuovo annuncio. Puoi anche riascoltare o eliminare gli annunci già presenti (soggetto a specifico permesso).
+
+Sorgenti video:
+^^^^^^^^^^^^^^^
+
+
+(soggetto a specifico permesso).
+
+PBX Report:
+^^^^^^^^^^^
+
+
+(soggetto a specifico permesso).
 
 Impostazioni
 ------------
