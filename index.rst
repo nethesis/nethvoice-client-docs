@@ -30,3 +30,9 @@ NethVoice client
    :caption: NethLink
 
    link_manual
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Nethvoice Report
+
+   pbxreport_manual
