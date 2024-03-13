@@ -113,5 +113,9 @@ Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'an
 Notifiche
 ##########
 
-
 Dopo 7 giorni di inattività sull'app NethVoice, potrebbe comparire un popup che avverte che la tua sessione sta per scadere. Per continuare a ricevere chiamate, è necessario toccare direttamente sulla notifica o aprire l'app NethVoice.
+
+.. image:: _static/Notifica_push.png
+   :alt: Notifica Push inattività
+   :width: 300px
+   :height: 200px
