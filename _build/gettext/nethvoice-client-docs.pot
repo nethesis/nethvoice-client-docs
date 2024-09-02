@@ -219,6 +219,18 @@ msgstr ""
 msgid "**Attivazione**: Consente di reimpostare l'applicazione, dissociando l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità descritte nella sezione di :ref:`Accesso`."
 msgstr ""
 
+#: ../../app_manual.rst:114
+msgid "Notifiche"
+msgstr ""
+
+#: ../../app_manual.rst:116
+msgid "Dopo 7 giorni di inattività sull'app NethVoice, potrebbe comparire un popup che avverte che la tua sessione sta per scadere. Per continuare a ricevere chiamate, è necessario toccare direttamente sulla notifica o aprire l'app NethVoice."
+msgstr ""
+
+#: ../../app_manual.rst:-1
+msgid "Notifica Push inattività"
+msgstr ""
+
 #: ../../cti_manual.rst:5
 #: ../../link_manual.rst:5
 #: ../../pbxreport_manual.rst:5
