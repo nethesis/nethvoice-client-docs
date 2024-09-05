@@ -1,8 +1,8 @@
 .. _app-section:
 
-=======
+=====================
 Manuale NethVoice App
-=======
+=====================
 
 Svolgi le tue attività comodamente da casa, in viaggio o ovunque tu vada grazie a NethVoice, disponibile sia per dispositivi iOS che Android. Questa app ti consente di portare con te il tuo ambiente lavorativo ovunque tu sia! Consulta la rubrica telefonica aziendale e rubrica personale, effettua e ricevi chiamate, offri supporto ai clienti e partecipa a videoconferenze, il tutto direttamente dal tuo smartphone o tablet.
 
@@ -10,11 +10,12 @@ NethVoice APP è il client mobile di `NethVoice <https://www.nethesis.it/soluzio
 
 
 Installazione
-##############
+#############
 
 Per iniziare, è necessario scaricare l'applicazione dall'app store appropriato, in base al sistema operativo del tuo smartphone. Procedere con l'installazione dell'app iOS dall'`App Store <https://apps.apple.com/it/app/nethvoice/id6476514784>`_ oppure per Android dal `Play Store <https://play.google.com/store/apps/details?id=com.nethesis.nethvoice.it.android&hl=it&gl=US>`_.
 
-.. _Accesso:
+.. _accesso:
+
 Accesso
 #######
 
@@ -34,9 +35,8 @@ Questa modalità di accesso consente di accedere al proprio account su NethVoice
 Dopo aver effettuato l'accesso utilizzando una delle due modalità descritte, l'app guiderà attraverso le successive schermate di autorizzazione, richiedendo di concedere i permessi necessari per il suo corretto funzionamento. Potrebbe apparire una schermata relativa all'ottimizzazione della batteria e alle notifiche; assicurati di seguire attentamente le istruzioni per garantire il corretto funzionamento dell'applicazione.
 
 
-
 Chiamata Rapida
-################
+###############
 
 Nella sezione "Chiamata Rapida" è possibile aggiungere o gestire la lista dei contatti preferiti al fine di tenere sotto controllo la presenza dei contatti aggiunti. Sopra ogni contatto aggiunto sarà visualizzato lo stato, indicando "Disponibile" in verde se il contatto non è in chiamata, "Sta squillando" in arancione quando il contatto sta ricevendo una chiamata e "Non disponibile" nel momento in cui il contatto è impegnato in una chiamata.
 
@@ -51,13 +51,13 @@ Con la voce "Modifica" sulla sottezione "Tutte", è possibile cancellare tutte l
 
 
 Tastierino
-###########
+##########
 
 Nella sezione "Tastierino", è possibile comporre un numero per effettuare una chiamata o aggiungere un nuovo contatto o aggiungere il numero appena digitato a un contatto esistente nella Rubrica. In basso a destra comparirà il tasto "Cancella" per eliminare l'ultimo numero o i numeri appena digitati.
 
 
 Effettuare una chiamata
-========================
+=======================
 
 Per effettuare una chiamata con l'app NethVoice è un'operazione molto semplice e può essere eseguita sia dal Tastierino che dalla Rubrica selezionando il contatto desiderato. Dopo aver composto il numero da chiamare, basta premere sull'icona verde del telefono per avviare la chiamata. Durante la chiamata, comparirà una schermata con i seguenti pulsanti:
 
@@ -75,12 +75,13 @@ Sopra i seguenti pulsanti, troviamo una barra contenente i seguenti comandi:
 3) *Videocamera*: permette di avviare una videochiamata con l'interlocutore.
 
 Contatti
-#########
+########
 
 Nella sezione "Contatti", è possibile consultare sia la Rubrica personale che quella del NethVoice, e in entrambe è possibile aggiungere o modificare i contatti. Per aggiungere un nuovo contatto, è sufficiente fare clic su "+", il che aprirà una finestra in cui è possibile compilare il Nome, Cognome, Società, numero di telefono ed email. Cliccando su un contatto esistente, è possibile procedere alla sua modifica, nonché effettuare una chiamata o avviare una videochiamata. È inoltre possibile impostare un Tono di Chiamata personalizzato per il contatto selezionato.
 
 
 Videocall
+#########
 
 Per effettuare una videochiamata, è possibile farlo in diversi modi. Come già spiegato in precedenza, è sufficiente selezionare un utente dalla sezione Contatti e cliccare sull'icona della videocamera per avviare una videocall. In alternativa, se si effettua una chiamata a un contatto, è possibile trasformarla in una videochiamata cliccando sull'icona "videocamera".
 
@@ -111,11 +112,11 @@ Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'an
 
 
 Notifiche
-##########
+#########
 
 Dopo 7 giorni di inattività sull'app NethVoice, potrebbe comparire un popup che avverte che la tua sessione sta per scadere. Per continuare a ricevere chiamate, è necessario toccare direttamente sulla notifica o aprire l'app NethVoice.
 
-.. image:: _static/Notifica_push.png
+.. image:: _static/Notifica_push.jpg
    :alt: Notifica Push inattività
    :width: 300px
    :height: 200px

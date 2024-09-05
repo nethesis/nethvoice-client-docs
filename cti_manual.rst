@@ -135,7 +135,7 @@ Puoi visualizzare la rubrica di Nethvoice CTI:
 .. image:: _static/Rubrica_Sinistra.png
    :width: 200
 
- Oppure aggiungere nuovi contatti con la funzione "Crea Contatto" (soggetto a specifico permesso):
+Oppure aggiungere nuovi contatti con la funzione "Crea Contatto" (soggetto a specifico permesso):
 
 .. image:: _static/crea_contatto.png
    :width: 200
