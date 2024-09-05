@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NethVoice client \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 13:37+0000\n"
+"POT-Creation-Date: 2024-09-05 13:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -55,21 +55,21 @@ msgid ""
 "<https://play.google.com/store/apps/details?id=com.nethesis.nethvoice.it.android&hl=it&gl=US>`_."
 msgstr ""
 
-#: ../../app_manual.rst:19 ../../link_manual.rst:12
+#: ../../app_manual.rst:20 ../../link_manual.rst:12
 msgid "Accesso"
 msgstr ""
 
-#: ../../app_manual.rst:21
+#: ../../app_manual.rst:22
 msgid ""
 "Aprire l'app ed effettuare l'accesso che potrà essere fatto in due "
 "modalità :"
 msgstr ""
 
-#: ../../app_manual.rst:23
+#: ../../app_manual.rst:24
 msgid "tramite QR-Code"
 msgstr ""
 
-#: ../../app_manual.rst:25
+#: ../../app_manual.rst:26
 msgid ""
 "In questa modalità di accesso, si utilizza la fotocamera del proprio "
 "telefono per scannerizzare un QR-Code generato sul CTI di NethVoice. "
@@ -82,26 +82,26 @@ msgid ""
 "conservarla."
 msgstr ""
 
-#: ../../app_manual.rst:27
+#: ../../app_manual.rst:28
 msgid "Manualmente"
 msgstr ""
 
-#: ../../app_manual.rst:29
+#: ../../app_manual.rst:30
 msgid ""
 "Questa modalità di accesso consente di accedere al proprio account su "
 "NethVoice App inserendo manualmente i dati forniti dall'amministratore di"
 " sistema. Sarà necessario inserire i seguenti dati:"
 msgstr ""
 
-#: ../../app_manual.rst:31
+#: ../../app_manual.rst:32
 msgid "Nome utente: nome@dominio"
 msgstr ""
 
-#: ../../app_manual.rst:32
+#: ../../app_manual.rst:33
 msgid "Password: la stessa password utilizzata per accedere al CTI."
 msgstr ""
 
-#: ../../app_manual.rst:34
+#: ../../app_manual.rst:35
 msgid ""
 "Dopo aver effettuato l'accesso utilizzando una delle due modalità "
 "descritte, l'app guiderà attraverso le successive schermate di "
@@ -265,11 +265,11 @@ msgid ""
 "contatto selezionato."
 msgstr ""
 
-#: ../../app_manual.rst:83
+#: ../../app_manual.rst:84
 msgid "Videocall"
 msgstr ""
 
-#: ../../app_manual.rst:85
+#: ../../app_manual.rst:86
 msgid ""
 "Per effettuare una videochiamata, è possibile farlo in diversi modi. Come"
 " già spiegato in precedenza, è sufficiente selezionare un utente dalla "
@@ -279,80 +279,80 @@ msgid ""
 "\"videocamera\"."
 msgstr ""
 
-#: ../../app_manual.rst:89 ../../cti_manual.rst:256
+#: ../../app_manual.rst:90 ../../cti_manual.rst:256
 msgid "Impostazioni"
 msgstr ""
 
-#: ../../app_manual.rst:91
+#: ../../app_manual.rst:92
 msgid ""
 "Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata "
 "nell'angolo in alto a destra, che rappresenta le \"Impostazioni\". Qui "
 "potrai accedere a diverse opzioni:"
 msgstr ""
 
-#: ../../app_manual.rst:93
+#: ../../app_manual.rst:94
 msgid "**Preferenze**:"
 msgstr ""
 
-#: ../../app_manual.rst:95
+#: ../../app_manual.rst:96
 msgid "*Suonerie*: Per impostare una suoneria diversa da quella predefinita."
 msgstr ""
 
-#: ../../app_manual.rst:96
+#: ../../app_manual.rst:97
 msgid ""
 "*Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e "
 "supporto Bluetooth."
 msgstr ""
 
-#: ../../app_manual.rst:97
+#: ../../app_manual.rst:98
 msgid ""
 "*Registrazione delle chiamate*: Per attivare la registrazione automatica "
 "di tutte le chiamate, con possibilità di scegliere formato e "
 "configurazioni avanzate."
 msgstr ""
 
-#: ../../app_manual.rst:98
+#: ../../app_manual.rst:99
 msgid ""
 "*Comandi*: Per abilitare il controllo dei pulsanti degli auricolari e "
 "gestire l'arrivo delle chiamate GSM."
 msgstr ""
 
-#: ../../app_manual.rst:99
+#: ../../app_manual.rst:100
 msgid ""
 "*Non Disturbare*: Per creare regole DND e non ricevere telefonate in "
 "determinati periodi."
 msgstr ""
 
-#: ../../app_manual.rst:100
+#: ../../app_manual.rst:101
 msgid ""
 "*Ordinamento dei contatti*: Per gestire la visualizzazione dei contatti "
 "nella Rubrica."
 msgstr ""
 
-#: ../../app_manual.rst:103
+#: ../../app_manual.rst:104
 msgid ""
 "**Informazioni**: Qui troverai le informazioni sull'app, inclusa la "
 "versione e il dispositivo in uso."
 msgstr ""
 
-#: ../../app_manual.rst:106
+#: ../../app_manual.rst:107
 msgid ""
 "**Utilizzo**: Fornisce dati statistici sulla durata delle chiamate e il "
 "conteggio complessivo delle chiamate."
 msgstr ""
 
-#: ../../app_manual.rst:109
+#: ../../app_manual.rst:110
 msgid ""
 "**Attivazione**: Consente di reimpostare l'applicazione, dissociando "
 "l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità "
 "descritte nella sezione di :ref:`Accesso`."
 msgstr ""
 
-#: ../../app_manual.rst:114
+#: ../../app_manual.rst:115
 msgid "Notifiche"
 msgstr ""
 
-#: ../../app_manual.rst:116
+#: ../../app_manual.rst:117
 msgid ""
 "Dopo 7 giorni di inattività sull'app NethVoice, potrebbe comparire un "
 "popup che avverte che la tua sessione sta per scadere. Per continuare a "
@@ -554,6 +554,12 @@ msgstr ""
 
 #: ../../cti_manual.rst:133
 msgid "Puoi visualizzare la rubrica di Nethvoice CTI:"
+msgstr ""
+
+#: ../../cti_manual.rst:138
+msgid ""
+"Oppure aggiungere nuovi contatti con la funzione \"Crea Contatto\" "
+"(soggetto a specifico permesso):"
 msgstr ""
 
 #: ../../cti_manual.rst:146
@@ -804,6 +810,10 @@ msgstr ""
 msgid "NethVoice client"
 msgstr ""
 
+#: ../../introduction.rst:5
+msgid "Introduzione"
+msgstr ""
+
 #: ../../link_manual.rst:7
 msgid "NethLink è"
 msgstr ""
@@ -812,6 +822,10 @@ msgstr ""
 msgid ""
 "Nethvoice Report è la reportistica avanzata `NethVoice "
 "<https://www.nethesis.it/soluzioni/nethvoice>`_"
+msgstr ""
+
+#: ../../release_notes.rst:5
+msgid "Release Notes"
 msgstr ""
 
 #~ msgid "Contents:"
