@@ -1,4 +1,4 @@
-.. _app-section:
+.. _link-section:
 
 =======
 Manuale
