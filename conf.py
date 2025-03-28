@@ -62,7 +62,7 @@ html_static_path = ['_static']
 html_css_files = ["custom.css"]
 
 html_theme_options = {
-    "repository_url": "https://github.com/NethServer/nethvoice-client-docs",
+    "repository_url": "https://github.com/Nethesis/nethvoice-client-docs",
     "use_repository_button": True,
     "use_download_button": False,
     "navigation_with_keys": False
