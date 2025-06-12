@@ -89,6 +89,7 @@ NethLink permette di personalizzare le scorciatoie da tastiera per le operazioni
 4. Salvare le impostazioni
 
 Le scorciatoie disponibili includono:
+
 * Avvio chiamata
 * Terminazione chiamata
 * Attivazione/disattivazione microfono
@@ -108,11 +109,13 @@ Ci sono diversi modi per effettuare una chiamata:
 2. Cliccare sull'icona del telefono accanto al contatto
 3. Attendere la risposta
 4. Utilizzare i controlli durante la chiamata:
+
    - Muto
    - Altoparlante
    - Termina chiamata
 
 In alternativa è possibile:
+
 * Digitare il numero nel campo di composizione e premere Invio
 * Utilizzare la scorciatoia da tastiera configurata
 * Selezionare un numero di telefono nel sistema operativo e utilizzare la scorciatoia
