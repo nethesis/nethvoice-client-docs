@@ -91,11 +91,6 @@ NethLink permette di personalizzare le scorciatoie da tastiera per le operazioni
 Le scorciatoie disponibili includono:
 
 * Avvio chiamata
-* Terminazione chiamata
-* Attivazione/disattivazione microfono
-* Attivazione/disattivazione altoparlante
-* Risposta a una chiamata in arrivo
-* Rifiuto di una chiamata in arrivo
 
 Utilizzo
 ========
@@ -180,7 +175,6 @@ Note importanti
 ===============
 
 * NethLink può essere utilizzato contemporaneamente a NethVoice CTI
-* Le chiamate possono essere effettuate da entrambe le interfacce
 * Le chiamate in arrivo verranno ricevute solo sul dispositivo impostato come principale
 * NethLink utilizza le notifiche di sistema per gli avvisi (es. chiamata in arrivo)
 * L'applicazione rimane sempre accessibile dalla tray bar del sistema operativo
