@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NethVoice client \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 13:03+0000\n"
+"POT-Creation-Date: 2025-06-12 14:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -349,7 +349,7 @@ msgid ""
 "descritte nella sezione di :ref:`Accesso`."
 msgstr ""
 
-#: ../../app_manual.rst:115 ../../link_manual.rst:151
+#: ../../app_manual.rst:115 ../../link_manual.rst:152
 msgid "Notifiche"
 msgstr ""
 
@@ -1400,92 +1400,118 @@ msgstr ""
 #: ../../link_manual.rst:144
 msgid ""
 "Il campo di composizione supporta un menu contestuale (tasto destro) che "
-"permette di: * Incollare un numero di telefono * Copiare il numero "
-"selezionato * Cancellare il contenuto del campo * Utilizzare le "
-"scorciatoie da tastiera configurate"
+"permette di:"
 msgstr ""
 
-#: ../../link_manual.rst:153
-msgid ""
-"NethLink utilizza il sistema di notifiche del sistema operativo per: * "
-"Avvisare di chiamate in arrivo * Mostrare lo stato delle chiamate * "
-"Informare su eventi importanti * Permettere risposte rapide alle "
-"notifiche"
+#: ../../link_manual.rst:146
+msgid "Incollare un numero di telefono"
 msgstr ""
 
-#: ../../link_manual.rst:160
+#: ../../link_manual.rst:147
+msgid "Copiare il numero selezionato"
+msgstr ""
+
+#: ../../link_manual.rst:148
+msgid "Cancellare il contenuto del campo"
+msgstr ""
+
+#: ../../link_manual.rst:149
+msgid "Utilizzare le scorciatoie da tastiera configurate"
+msgstr ""
+
+#: ../../link_manual.rst:154
+msgid "NethLink utilizza il sistema di notifiche del sistema operativo per:"
+msgstr ""
+
+#: ../../link_manual.rst:156
+msgid "Avvisare di chiamate in arrivo"
+msgstr ""
+
+#: ../../link_manual.rst:157
+msgid "Mostrare lo stato delle chiamate"
+msgstr ""
+
+#: ../../link_manual.rst:158
+msgid "Informare su eventi importanti"
+msgstr ""
+
+#: ../../link_manual.rst:159
+msgid "Permettere risposte rapide alle notifiche"
+msgstr ""
+
+#: ../../link_manual.rst:162
 msgid "Risoluzione problemi"
 msgstr ""
 
-#: ../../link_manual.rst:163
+#: ../../link_manual.rst:165
 msgid "Problemi audio"
 msgstr ""
 
-#: ../../link_manual.rst:165
+#: ../../link_manual.rst:167
 msgid "Verificare che i dispositivi audio siano correttamente collegati"
 msgstr ""
 
-#: ../../link_manual.rst:166
+#: ../../link_manual.rst:168
 msgid "Controllare le impostazioni del browser per i permessi audio"
 msgstr ""
 
-#: ../../link_manual.rst:167
+#: ../../link_manual.rst:169
 msgid "Eseguire il test audio nella sezione configurazione"
 msgstr ""
 
-#: ../../link_manual.rst:168
+#: ../../link_manual.rst:170
 msgid ""
 "Verificare che non ci siano altre applicazioni che utilizzano i "
 "dispositivi audio"
 msgstr ""
 
-#: ../../link_manual.rst:171
+#: ../../link_manual.rst:173
 msgid "Problemi di connessione"
 msgstr ""
 
-#: ../../link_manual.rst:173
+#: ../../link_manual.rst:175
 msgid "Verificare la connessione internet e la risoluzione DNS"
 msgstr ""
 
-#: ../../link_manual.rst:174
+#: ../../link_manual.rst:176
 msgid "Controllare le credenziali di accesso"
 msgstr ""
 
-#: ../../link_manual.rst:175
+#: ../../link_manual.rst:177
 msgid "Verificare che il centralino sia raggiungibile"
 msgstr ""
 
-#: ../../link_manual.rst:178
+#: ../../link_manual.rst:180
 msgid "Note importanti"
 msgstr ""
 
-#: ../../link_manual.rst:180
+#: ../../link_manual.rst:182
 msgid "NethLink può essere utilizzato contemporaneamente a NethVoice CTI"
 msgstr ""
 
-#: ../../link_manual.rst:181
+#: ../../link_manual.rst:183
 msgid "Le chiamate possono essere effettuate da entrambe le interfacce"
 msgstr ""
 
-#: ../../link_manual.rst:182
+#: ../../link_manual.rst:184
 msgid ""
 "Le chiamate in arrivo verranno ricevute solo sul dispositivo impostato "
 "come principale"
 msgstr ""
 
-#: ../../link_manual.rst:183
+#: ../../link_manual.rst:185
 msgid ""
 "NethLink utilizza le notifiche di sistema per gli avvisi (es. chiamata in"
 " arrivo)"
 msgstr ""
 
-#: ../../link_manual.rst:184
+#: ../../link_manual.rst:186
 msgid ""
 "L'applicazione rimane sempre accessibile dalla tray bar del sistema "
 "operativo"
 msgstr ""
 
-#: ../../link_manual.rst:185
+#: ../../link_manual.rst:187
 msgid ""
 "NethLink è attualmente in versione BETA e verrà arricchito con ulteriori "
 "funzionalità"
@@ -1786,5 +1812,24 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "NethLink è"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Il campo di composizione supporta un "
+#~ "menu contestuale (tasto destro) che "
+#~ "permette di: * Incollare un numero "
+#~ "di telefono * Copiare il numero "
+#~ "selezionato * Cancellare il contenuto "
+#~ "del campo * Utilizzare le scorciatoie"
+#~ " da tastiera configurate"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "NethLink utilizza il sistema di "
+#~ "notifiche del sistema operativo per: *"
+#~ " Avvisare di chiamate in arrivo * "
+#~ "Mostrare lo stato delle chiamate * "
+#~ "Informare su eventi importanti * "
+#~ "Permettere risposte rapide alle notifiche"
 #~ msgstr ""
 
