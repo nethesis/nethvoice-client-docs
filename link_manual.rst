@@ -14,7 +14,6 @@ L'applicazione è disponibile per i seguenti sistemi operativi:
 * macOS
 * Linux (AppImage), non ufficialmente supportato
 
-
 Installazione
 =============
 
@@ -42,17 +41,21 @@ Caratteristiche principali
 * Visualizzazione chiamate perse
 * Integrazione con la tray bar del sistema operativo
 * Possibilità di utilizzo contemporaneo con NethVoice CTI
+* Scorciatoie da tastiera personalizzabili
+* Menu contestuale nel campo di composizione
+* Supporto per il copia e incolla dei numeri di telefono
+* Integrazione con il sistema di notifiche del sistema operativo
 
 Requisiti di sistema
 ====================
 
-* Sistema operativo supportato:
-  * Windows (ultime versioni)
-  * macOS (ultime versioni)
+* Sistemi operativi supportato:
+
+  * Windows
+  * macOS
 * Microfono e altoparlanti/cuffie funzionanti
 * Connessione internet stabile
 * Account NethVoice configurato
-
 
 Configurazione
 ==============
@@ -75,12 +78,31 @@ Per garantire una qualità ottimale delle chiamate:
 3. Eseguire il test audio per verificare la configurazione
 4. Regolare i livelli del volume secondo necessità
 
+Configurazione delle scorciatoie da tastiera
+--------------------------------------------
+
+NethLink permette di personalizzare le scorciatoie da tastiera per le operazioni più comuni:
+
+1. Accedere a "Profilo → Impostazioni → Scorciatoie"
+2. Selezionare l'operazione da configurare
+3. Premere la combinazione di tasti desiderata
+4. Salvare le impostazioni
+
+Le scorciatoie disponibili includono:
+* Avvio chiamata
+* Terminazione chiamata
+* Attivazione/disattivazione microfono
+* Attivazione/disattivazione altoparlante
+* Risposta a una chiamata in arrivo
+* Rifiuto di una chiamata in arrivo
 
 Utilizzo
 ========
 
 Effettuare una chiamata
 -----------------------
+
+Ci sono diversi modi per effettuare una chiamata:
 
 1. Selezionare il contatto dalla rubrica
 2. Cliccare sull'icona del telefono accanto al contatto
@@ -89,6 +111,12 @@ Effettuare una chiamata
    - Muto
    - Altoparlante
    - Termina chiamata
+
+In alternativa è possibile:
+* Digitare il numero nel campo di composizione e premere Invio
+* Utilizzare la scorciatoia da tastiera configurata
+* Selezionare un numero di telefono nel sistema operativo e utilizzare la scorciatoia
+* Utilizzare il menu contestuale nel campo di composizione per incollare un numero
 
 Ricevere una chiamata
 ---------------------
@@ -99,13 +127,31 @@ Ricevere una chiamata
 4. Utilizzare i controlli durante la chiamata
 
 Gestione rubrica
------------------
+----------------
 
 * Aggiungere nuovi contatti
 * Modificare contatti esistenti
 * Organizzare contatti in gruppi
 * Ricercare contatti
 * Importare/esportare contatti
+
+Menu contestuale
+----------------
+
+Il campo di composizione supporta un menu contestuale (tasto destro) che permette di:
+* Incollare un numero di telefono
+* Copiare il numero selezionato
+* Cancellare il contenuto del campo
+* Utilizzare le scorciatoie da tastiera configurate
+
+Notifiche
+---------
+
+NethLink utilizza il sistema di notifiche del sistema operativo per:
+* Avvisare di chiamate in arrivo
+* Mostrare lo stato delle chiamate
+* Informare su eventi importanti
+* Permettere risposte rapide alle notifiche
 
 Risoluzione problemi
 ====================
