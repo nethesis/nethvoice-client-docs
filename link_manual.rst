@@ -142,6 +142,7 @@ Menu contestuale
 ----------------
 
 Il campo di composizione supporta un menu contestuale (tasto destro) che permette di:
+
 * Incollare un numero di telefono
 * Copiare il numero selezionato
 * Cancellare il contenuto del campo
@@ -151,6 +152,7 @@ Notifiche
 ---------
 
 NethLink utilizza il sistema di notifiche del sistema operativo per:
+
 * Avvisare di chiamate in arrivo
 * Mostrare lo stato delle chiamate
 * Informare su eventi importanti
