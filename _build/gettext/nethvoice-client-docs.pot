@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NethVoice client \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-28 08:28+0000\n"
+"POT-Creation-Date: 2025-06-12 12:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../app_manual.rst:5
-msgid "Manuale NethVoice App"
+#: ../../cti_manual.rst:5
+#: ../../link_manual.rst:5
+#: ../../pbxreport_manual.rst:5
+msgid "Manuale"
 msgstr ""
 
 #: ../../app_manual.rst:7
@@ -229,12 +232,6 @@ msgstr ""
 
 #: ../../app_manual.rst:-1
 msgid "Notifica Push inattività"
-msgstr ""
-
-#: ../../cti_manual.rst:5
-#: ../../link_manual.rst:5
-#: ../../pbxreport_manual.rst:5
-msgid "Manuale"
 msgstr ""
 
 #: ../../cti_manual.rst:7
@@ -597,19 +594,20 @@ msgstr ""
 msgid "About"
 msgstr ""
 
-#: ../../index.rst:16
+#: ../../index.rst:15
 msgid "NethVoice CTI"
 msgstr ""
 
-#: ../../index.rst:22
+#: ../../index.rst:21
 msgid "NethVoice APP"
 msgstr ""
 
-#: ../../index.rst:28
+#: ../../index.rst:27
+#: ../../introduction.rst:60
 msgid "NethLink"
 msgstr ""
 
-#: ../../index.rst:34
+#: ../../index.rst:33
 msgid "Nethvoice Report"
 msgstr ""
 
@@ -621,14 +619,203 @@ msgstr ""
 msgid "Introduzione"
 msgstr ""
 
+#: ../../introduction.rst:7
+msgid "Questo manuale è rivolto agli utilizzatori finali dei client del centralinoNethVoice. Qui troverete tutte le informazioni necessarie per utilizzare al meglio le interfacce client di NethVoice:"
+msgstr ""
+
+#: ../../introduction.rst:10
+msgid ":ref:`nethcti-section`: applicazione web che permette di gestire le chiamate direttamente dal browser"
+msgstr ""
+
+#: ../../introduction.rst:11
+msgid ":ref:`nethlink-section`: applicazione desktop per Windows e macOS che integra la Phone Island nel sistema operativo"
+msgstr ""
+
+#: ../../introduction.rst:12
+msgid ":ref:`nethvoice-app-section`: applicazione mobile per iOS e Android per la gestione delle chiamate in mobilità"
+msgstr ""
+
+#: ../../introduction.rst:14
+msgid "Il manuale è strutturato per guidarvi nell'utilizzo quotidiano dei client, dalla configurazione iniziale alla gestione avanzata delle chiamate. Ogni sezione contiene istruzioni dettagliate e suggerimenti per sfruttare al meglio le funzionalità disponibili."
+msgstr ""
+
+#: ../../introduction.rst:18
+msgid "`NethVoice <https://docs.nethserver.org/projects/ns8/en/latest/nethvoice.html>`_ è un modulo di `NethServer 8 <https://docs.nethserver.org/projects/ns8/en/latest/>`_ che fornisce un sistema di telefonia VoIP professionale completo."
+msgstr ""
+
+#: ../../introduction.rst:20
+msgid "Tutti i client si integrano con il centralino NethVoice, che fornisce:"
+msgstr ""
+
+#: ../../introduction.rst:22
+msgid "Centralino VoIP professionale basato su Asterisk"
+msgstr ""
+
+#: ../../introduction.rst:23
+msgid "Supporto multitenant"
+msgstr ""
+
+#: ../../introduction.rst:24
+msgid "Gestione avanzata delle code di chiamata"
+msgstr ""
+
+#: ../../introduction.rst:25
+msgid "Registrazione delle chiamate"
+msgstr ""
+
+#: ../../introduction.rst:26
+msgid "Integrazione con sistemi esterni"
+msgstr ""
+
+#: ../../introduction.rst:27
+msgid "Interfaccia di amministrazione web"
+msgstr ""
+
+#: ../../introduction.rst:28
+msgid "Monitoraggio e reportistica"
+msgstr ""
+
+#: ../../introduction.rst:30
+msgid "I client possono essere utilizzati contemporaneamente, permettendo agli utenti di:"
+msgstr ""
+
+#: ../../introduction.rst:32
+msgid "Ricevere chiamate su tutti i dispositivi configurati"
+msgstr ""
+
+#: ../../introduction.rst:33
+msgid "Gestire le chiamate dal dispositivo più comodo"
+msgstr ""
+
+#: ../../introduction.rst:34
+msgid "Mantenere la stessa esperienza utente su tutte le piattaforme"
+msgstr ""
+
+#: ../../introduction.rst:35
+msgid "Accedere alla rubrica aziendale unificata"
+msgstr ""
+
+#: ../../introduction.rst:36
+msgid "Utilizzare le stesse funzionalità di base su tutti i client"
+msgstr ""
+
+#: ../../introduction.rst:41
+msgid "NethCTI"
+msgstr ""
+
+#: ../../introduction.rst:43
+msgid "NethCTI è l'interfaccia web principale di NethVoice, accessibile da qualsiasi browser moderno. Offre funzionalità avanzate come:"
+msgstr ""
+
+#: ../../introduction.rst:46
+msgid "Gestione completa delle chiamate VoIP"
+msgstr ""
+
+#: ../../introduction.rst:47
+msgid "Integrazione con i sistemi informativi aziendali"
+msgstr ""
+
+#: ../../introduction.rst:48
+msgid "Visualizzazione dello stato degli operatori"
+msgstr ""
+
+#: ../../introduction.rst:49
+msgid "Gestione delle code di chiamata"
+msgstr ""
+
+#: ../../introduction.rst:50
+msgid "Registrazione e storico delle chiamate"
+msgstr ""
+
+#: ../../introduction.rst:51
+#: ../../introduction.rst:82
+msgid "Gestione della rubrica aziendale"
+msgstr ""
+
+#: ../../introduction.rst:52
+msgid "Configurazione della segreteria telefonica"
+msgstr ""
+
+#: ../../introduction.rst:53
+msgid "Integrazione con videocitofoni e videocamere IP"
+msgstr ""
+
+#: ../../introduction.rst:55
+msgid "Per maggiori informazioni, consultare la :doc:`documentazione NethCTI <cti_manual>`."
+msgstr ""
+
+#: ../../introduction.rst:62
+msgid "NethLink è un'applicazione desktop basata su Electron che porta la Phone Island di NethCTI fuori dal browser, direttamente nel sistema operativo. Caratteristiche principali:"
+msgstr ""
+
+#: ../../introduction.rst:65
+msgid "Accesso rapido dalla tray bar del sistema"
+msgstr ""
+
+#: ../../introduction.rst:66
+msgid "Notifiche di sistema integrate"
+msgstr ""
+
+#: ../../introduction.rst:67
+msgid "Gestione delle chiamate in background"
+msgstr ""
+
+#: ../../introduction.rst:68
+msgid "Integrazione con il sistema operativo"
+msgstr ""
+
+#: ../../introduction.rst:69
+msgid "Possibilità di utilizzo contemporaneo con NethCTI"
+msgstr ""
+
+#: ../../introduction.rst:70
+msgid "Supporto per Windows e macOS"
+msgstr ""
+
+#: ../../introduction.rst:72
+msgid "Per maggiori informazioni, consultare la :doc:`documentazione NethLink <link_manual>`."
+msgstr ""
+
+#: ../../introduction.rst:77
+msgid "NethVoice App"
+msgstr ""
+
+#: ../../introduction.rst:79
+msgid "L'app mobile permette di utilizzare il centralino aziendale da smartphone e tablet:"
+msgstr ""
+
+#: ../../introduction.rst:81
+msgid "Chiamate VoIP tramite rete dati/WiFi"
+msgstr ""
+
+#: ../../introduction.rst:83
+msgid "Registro chiamate completo"
+msgstr ""
+
+#: ../../introduction.rst:84
+msgid "Configurazione semplice tramite QR code"
+msgstr ""
+
+#: ../../introduction.rst:85
+msgid "Supporto per iOS e Android"
+msgstr ""
+
+#: ../../introduction.rst:86
+msgid "Integrazione con Android Auto e Apple CarPlay"
+msgstr ""
+
+#: ../../introduction.rst:87
+msgid "Qualità audio ottimizzata per le reti mobili"
+msgstr ""
+
+#: ../../introduction.rst:89
+msgid "Per maggiori informazioni, consultare la :doc:`documentazione NethVoice App <app_manual>`."
+msgstr ""
+
 #: ../../link_manual.rst:7
 msgid "NethLink è"
 msgstr ""
 
 #: ../../pbxreport_manual.rst:7
 msgid "Nethvoice Report è la reportistica avanzata `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_"
-msgstr ""
-
-#: ../../release_notes.rst:5
-msgid "Release Notes"
 msgstr ""
