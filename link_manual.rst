@@ -51,8 +51,8 @@ Requisiti di sistema
 
 * Sistemi operativi supportato:
 
-  * Windows
-  * macOS
+  * Windows (Windows 10 o successivo)
+  * macOS (10.15 Catalina o successivo)
 * Microfono e altoparlanti/cuffie funzionanti
 * Connessione internet stabile
 * Account NethVoice configurato
