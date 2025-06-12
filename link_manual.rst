@@ -42,7 +42,6 @@ Caratteristiche principali
 * Integrazione con la tray bar del sistema operativo
 * Possibilità di utilizzo contemporaneo con NethVoice CTI
 * Scorciatoie da tastiera personalizzabili
-* Menu contestuale nel campo di composizione
 * Supporto per il copia e incolla dei numeri di telefono
 * Integrazione con il sistema di notifiche del sistema operativo
 
@@ -88,7 +87,7 @@ NethLink permette di personalizzare le scorciatoie da tastiera per le operazioni
 3. Premere la combinazione di tasti desiderata
 4. Salvare le impostazioni
 
-Le scorciatoie disponibili includono:
+Al momento le scorciatoie disponibili sono:
 
 * Avvio chiamata
 
@@ -106,7 +105,8 @@ Ci sono diversi modi per effettuare una chiamata:
 4. Utilizzare i controlli durante la chiamata:
 
    - Muto
-   - Altoparlante
+   - Attesa
+   - Trasferimento
    - Termina chiamata
 
 In alternativa è possibile:
@@ -133,16 +133,6 @@ Gestione rubrica
 * Ricercare contatti
 * Importare/esportare contatti
 
-Menu contestuale
-----------------
-
-Il campo di composizione supporta un menu contestuale (tasto destro) che permette di:
-
-* Incollare un numero di telefono
-* Copiare il numero selezionato
-* Cancellare il contenuto del campo
-* Utilizzare le scorciatoie da tastiera configurate
-
 Notifiche
 ---------
 
@@ -150,8 +140,6 @@ NethLink utilizza il sistema di notifiche del sistema operativo per:
 
 * Avvisare di chiamate in arrivo
 * Mostrare lo stato delle chiamate
-* Informare su eventi importanti
-* Permettere risposte rapide alle notifiche
 
 Risoluzione problemi
 ====================
@@ -178,4 +166,3 @@ Note importanti
 * Le chiamate in arrivo verranno ricevute solo sul dispositivo impostato come principale
 * NethLink utilizza le notifiche di sistema per gli avvisi (es. chiamata in arrivo)
 * L'applicazione rimane sempre accessibile dalla tray bar del sistema operativo
-* NethLink è attualmente in versione BETA e verrà arricchito con ulteriori funzionalità
