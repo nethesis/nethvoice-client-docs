@@ -49,7 +49,7 @@ Caratteristiche principali
 Requisiti di sistema
 ====================
 
-* Sistemi operativi supportato:
+* Sistemi operativi supportati:
 
   * Windows (Windows 10 o successivo)
   * macOS (10.15 Catalina o successivo)
