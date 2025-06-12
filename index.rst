@@ -11,7 +11,6 @@ NethVoice client
    :caption: About
 
    introduction
-   release_notes
 
 .. toctree::
    :maxdepth: 2

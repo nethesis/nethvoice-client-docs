@@ -1,8 +1,8 @@
 .. _app-section:
 
-=====================
-Manuale NethVoice App
-=====================
+=======
+Manuale
+=======
 
 Svolgi le tue attività comodamente da casa, in viaggio o ovunque tu vada grazie a NethVoice, disponibile sia per dispositivi iOS che Android. Questa app ti consente di portare con te il tuo ambiente lavorativo ovunque tu sia! Consulta la rubrica telefonica aziendale e rubrica personale, effettua e ricevi chiamate, offri supporto ai clienti e partecipa a videoconferenze, il tutto direttamente dal tuo smartphone o tablet.
 
