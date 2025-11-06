@@ -1,0 +1,1208 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Nethesis Srl and the NethVoice project contributors
+# This file is distributed under the same license as the NethVoice client package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NethVoice client \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-06 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../app_manual.rst:5
+#: ../../cti_manual.rst:5
+#: ../../link_manual.rst:5
+#: ../../pbxreport_manual.rst:5
+msgid "Manuale"
+msgstr ""
+
+#: ../../app_manual.rst:7
+msgid "Svolgi le tue attività comodamente da casa, in viaggio o ovunque tu vada grazie a NethVoice, disponibile sia per dispositivi iOS che Android. Questa app ti consente di portare con te il tuo ambiente lavorativo ovunque tu sia! Consulta la rubrica telefonica aziendale e rubrica personale, effettua e ricevi chiamate, offri supporto ai clienti e partecipa a videoconferenze, il tutto direttamente dal tuo smartphone o tablet."
+msgstr ""
+
+#: ../../app_manual.rst:9
+msgid "NethVoice APP è il client mobile di `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_."
+msgstr ""
+
+#: ../../app_manual.rst:13
+#: ../../link_manual.rst:18
+msgid "Installazione"
+msgstr ""
+
+#: ../../app_manual.rst:15
+msgid "Per iniziare, è necessario scaricare l'applicazione dall'app store appropriato, in base al sistema operativo del tuo smartphone. Procedere con l'installazione dell'app iOS dall'`App Store <https://apps.apple.com/it/app/nethvoice/id6476514784>`_ oppure per Android dal `Play Store <https://play.google.com/store/apps/details?id=com.nethesis.nethvoice.it.android&hl=it&gl=US>`_."
+msgstr ""
+
+#: ../../app_manual.rst:20
+msgid "Accesso"
+msgstr ""
+
+#: ../../app_manual.rst:22
+msgid "Aprire l'app ed effettuare l'accesso che potrà essere fatto in due modalità :"
+msgstr ""
+
+#: ../../app_manual.rst:24
+msgid "tramite QR-Code"
+msgstr ""
+
+#: ../../app_manual.rst:26
+msgid "In questa modalità di accesso, si utilizza la fotocamera del proprio telefono per scannerizzare un QR-Code generato sul CTI di NethVoice. L'applicazione potrebbe richiedere l'autorizzazione per accedere alla fotocamera. Per generare il QR-Code, è necessario accedere al CTI, navigare fino alla pagina \"Impostazioni\", selezionare \"App Mobile\", e infine fare clic su \"Genera QR-Code\". Il sistema chiederà conferma per generare il nuovo QR-Code; facendo clic su \"Genera\", comparirà un'immagine contenente il QR-Code, con la possibilità di scaricarla per conservarla."
+msgstr ""
+
+#: ../../app_manual.rst:28
+msgid "Manualmente"
+msgstr ""
+
+#: ../../app_manual.rst:30
+msgid "Questa modalità di accesso consente di accedere al proprio account su NethVoice App inserendo manualmente i dati forniti dall'amministratore di sistema. Sarà necessario inserire i seguenti dati:"
+msgstr ""
+
+#: ../../app_manual.rst:32
+msgid "Nome utente: nome@dominio"
+msgstr ""
+
+#: ../../app_manual.rst:33
+msgid "Password: la stessa password utilizzata per accedere al CTI."
+msgstr ""
+
+#: ../../app_manual.rst:35
+msgid "Dopo aver effettuato l'accesso utilizzando una delle due modalità descritte, l'app guiderà attraverso le successive schermate di autorizzazione, richiedendo di concedere i permessi necessari per il suo corretto funzionamento. Potrebbe apparire una schermata relativa all'ottimizzazione della batteria e alle notifiche; assicurati di seguire attentamente le istruzioni per garantire il corretto funzionamento dell'applicazione."
+msgstr ""
+
+#: ../../app_manual.rst:39
+msgid "Chiamata Rapida"
+msgstr ""
+
+#: ../../app_manual.rst:41
+msgid "Nella sezione \"Chiamata Rapida\" è possibile aggiungere o gestire la lista dei contatti preferiti al fine di tenere sotto controllo la presenza dei contatti aggiunti. Sopra ogni contatto aggiunto sarà visualizzato lo stato, indicando \"Disponibile\" in verde se il contatto non è in chiamata, \"Sta squillando\" in arancione quando il contatto sta ricevendo una chiamata e \"Non disponibile\" nel momento in cui il contatto è impegnato in una chiamata."
+msgstr ""
+
+#: ../../app_manual.rst:43
+msgid "Per aggiungere un contatto alla lista, è necessario fare clic su \"Modifica\" e poi premere su \"+\". A questo punto verrà richiesto di inserire il Titolo (Nome e Cognome), il Numero o l'indirizzo SIP (numero interno) e controllare lo Stato che monitora gli stati dell'interno. È possibile anche aggiungere una foto del contatto o importarlo direttamente dalla Rubrica. Successivamente, è necessario salvare il contatto per poterlo visualizzare nella lista dei contatti."
+msgstr ""
+
+#: ../../app_manual.rst:46
+#: ../../cti_manual.rst:145
+msgid "Storico"
+msgstr ""
+
+#: ../../app_manual.rst:48
+msgid "All'interno della sezione \"Storico\", sono presenti tre sottosezioni attraverso le quali è possibile visualizzare tutte le chiamate gestite, perse e ricevute. Nella sezione \"Perse\", è presente un filtro che mostra solo le chiamate ricevute alle quali non abbiamo risposto. Nella sottosezione \"Registrato\", sono elencate tutte le chiamate registrate; cliccando sull'icona \"i\" di informazione, si accede a una pagina dove è possibile ascoltare la registrazione. Cliccando di nuovo sull'icona \"i\", è possibile cancellare la registrazione, inviarla tramite e-mail, condividerla con altre app esterne o bloccare la registrazione per prevenirne la cancellazione."
+msgstr ""
+
+#: ../../app_manual.rst:50
+msgid "Con la voce \"Modifica\" sulla sottezione \"Tutte\", è possibile cancellare tutte le chiamate oppure selezionare quelle che si desidera eliminare. Accanto alla voce \"Modifica\", è presente un pulsante che consente di esportare tutte le chiamate, generando un file di testo contenente i dati relativi alle chiamate."
+msgstr ""
+
+#: ../../app_manual.rst:54
+msgid "Tastierino"
+msgstr ""
+
+#: ../../app_manual.rst:56
+msgid "Nella sezione \"Tastierino\", è possibile comporre un numero per effettuare una chiamata o aggiungere un nuovo contatto o aggiungere il numero appena digitato a un contatto esistente nella Rubrica. In basso a destra comparirà il tasto \"Cancella\" per eliminare l'ultimo numero o i numeri appena digitati."
+msgstr ""
+
+#: ../../app_manual.rst:60
+#: ../../link_manual.rst:98
+msgid "Effettuare una chiamata"
+msgstr ""
+
+#: ../../app_manual.rst:62
+msgid "Per effettuare una chiamata con l'app NethVoice è un'operazione molto semplice e può essere eseguita sia dal Tastierino che dalla Rubrica selezionando il contatto desiderato. Dopo aver composto il numero da chiamare, basta premere sull'icona verde del telefono per avviare la chiamata. Durante la chiamata, comparirà una schermata con i seguenti pulsanti:"
+msgstr ""
+
+#: ../../app_manual.rst:64
+msgid "*Tastierino*: per digitare numeri durante la chiamata."
+msgstr ""
+
+#: ../../app_manual.rst:65
+msgid "*Metti in attesa*: per mettere in pausa la chiamata in modo che l'interlocutore non ci senta, ma sentirà una musica di attesa."
+msgstr ""
+
+#: ../../app_manual.rst:66
+msgid "*Registra*: permette di registrare la chiamata in corso."
+msgstr ""
+
+#: ../../app_manual.rst:67
+msgid "*Trasferisci*: per trasferire la chiamata in modalità cieca, senza poter parlare direttamente al destinatario."
+msgstr ""
+
+#: ../../app_manual.rst:68
+msgid "*Aggiungi alla chiamata*: per aggiungere un altro interlocutore interno o un numero esterno alla chiamata (conferenza). Durante la conferenza, comparirà il pulsante \"Dividi\", che consente di gestire la conferenza chiamata e, alternando tra le chiamate, di chiudere la comunicazione con uno dei due contatti e continuare con l'altra persona."
+msgstr ""
+
+#: ../../app_manual.rst:69
+msgid "*Trasferimento assistito*: per trasferire la chiamata in modalità consultativa, cioè dopo aver parlato con il destinatario per ottenere il suo consenso al trasferimento."
+msgstr ""
+
+#: ../../app_manual.rst:71
+msgid "Sopra i seguenti pulsanti, troviamo una barra contenente i seguenti comandi:"
+msgstr ""
+
+#: ../../app_manual.rst:73
+msgid "*Microfono*: permette di disabilitare il proprio microfono (mutare)."
+msgstr ""
+
+#: ../../app_manual.rst:74
+msgid "*Altoparlante*: permette di attivare l'altoparlante per ascoltare la chiamata in vivavoce."
+msgstr ""
+
+#: ../../app_manual.rst:75
+msgid "*Videocamera*: permette di avviare una videochiamata con l'interlocutore."
+msgstr ""
+
+#: ../../app_manual.rst:78
+msgid "Contatti"
+msgstr ""
+
+#: ../../app_manual.rst:80
+msgid "Nella sezione \"Contatti\", è possibile consultare sia la Rubrica personale che quella del NethVoice, e in entrambe è possibile aggiungere o modificare i contatti. Per aggiungere un nuovo contatto, è sufficiente fare clic su \"+\", il che aprirà una finestra in cui è possibile compilare il Nome, Cognome, Società, numero di telefono ed email. Cliccando su un contatto esistente, è possibile procedere alla sua modifica, nonché effettuare una chiamata o avviare una videochiamata. È inoltre possibile impostare un Tono di Chiamata personalizzato per il contatto selezionato."
+msgstr ""
+
+#: ../../app_manual.rst:84
+msgid "Videocall"
+msgstr ""
+
+#: ../../app_manual.rst:86
+msgid "Per effettuare una videochiamata, è possibile farlo in diversi modi. Come già spiegato in precedenza, è sufficiente selezionare un utente dalla sezione Contatti e cliccare sull'icona della videocamera per avviare una videocall. In alternativa, se si effettua una chiamata a un contatto, è possibile trasformarla in una videochiamata cliccando sull'icona \"videocamera\"."
+msgstr ""
+
+#: ../../app_manual.rst:90
+#: ../../cti_manual.rst:256
+msgid "Impostazioni"
+msgstr ""
+
+#: ../../app_manual.rst:92
+msgid "Dalla sezione Tastierino, troverai un'icona a forma di rotellina situata nell'angolo in alto a destra, che rappresenta le \"Impostazioni\". Qui potrai accedere a diverse opzioni:"
+msgstr ""
+
+#: ../../app_manual.rst:94
+msgid "**Preferenze**:"
+msgstr ""
+
+#: ../../app_manual.rst:96
+msgid "*Suonerie*: Per impostare una suoneria diversa da quella predefinita."
+msgstr ""
+
+#: ../../app_manual.rst:97
+msgid "*Audio*: Per gestire parametri quali eco, altoparlanti, amplificazione e supporto Bluetooth."
+msgstr ""
+
+#: ../../app_manual.rst:98
+msgid "*Registrazione delle chiamate*: Per attivare la registrazione automatica di tutte le chiamate, con possibilità di scegliere formato e configurazioni avanzate."
+msgstr ""
+
+#: ../../app_manual.rst:99
+msgid "*Comandi*: Per abilitare il controllo dei pulsanti degli auricolari e gestire l'arrivo delle chiamate GSM."
+msgstr ""
+
+#: ../../app_manual.rst:100
+msgid "*Non Disturbare*: Per creare regole DND e non ricevere telefonate in determinati periodi."
+msgstr ""
+
+#: ../../app_manual.rst:101
+msgid "*Ordinamento dei contatti*: Per gestire la visualizzazione dei contatti nella Rubrica."
+msgstr ""
+
+#: ../../app_manual.rst:104
+msgid "**Informazioni**: Qui troverai le informazioni sull'app, inclusa la versione e il dispositivo in uso."
+msgstr ""
+
+#: ../../app_manual.rst:107
+msgid "**Utilizzo**: Fornisce dati statistici sulla durata delle chiamate e il conteggio complessivo delle chiamate."
+msgstr ""
+
+#: ../../app_manual.rst:110
+msgid "**Attivazione**: Consente di reimpostare l'applicazione, dissociando l'utenza dall'app stessa. Per accedere nuovamente, segui le modalità descritte nella sezione di :ref:`Accesso`."
+msgstr ""
+
+#: ../../app_manual.rst:115
+#: ../../link_manual.rst:137
+msgid "Notifiche"
+msgstr ""
+
+#: ../../app_manual.rst:117
+msgid "Dopo 7 giorni di inattività sull'app NethVoice, potrebbe comparire un popup che avverte che la tua sessione sta per scadere. Per continuare a ricevere chiamate, è necessario toccare direttamente sulla notifica o aprire l'app NethVoice."
+msgstr ""
+
+#: ../../app_manual.rst:119
+msgid "Notifica Push inattività"
+msgstr ""
+
+#: ../../cti_manual.rst:7
+msgid "NethVoice CTI è il client web di `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_"
+msgstr ""
+
+#: ../../cti_manual.rst:9
+msgid "Consente di telefonare e collaborare con clienti e colleghi tramite il tuo browser."
+msgstr ""
+
+#: ../../cti_manual.rst:12
+#: ../../pbxreport_manual.rst:11
+msgid "Come Accedere"
+msgstr ""
+
+#: ../../cti_manual.rst:13
+#: ../../pbxreport_manual.rst:12
+msgid "L'accesso avviene tramite browser Web:"
+msgstr ""
+
+#: ../../cti_manual.rst:19
+#: ../../pbxreport_manual.rst:18
+msgid "Il link di collegamento e le credenziali di accesso sono specifiche dell'installazione e vengono comunicate in fase di avviamento."
+msgstr ""
+
+#: ../../cti_manual.rst:22
+msgid "Effettuare e gestire chiamate"
+msgstr ""
+
+#: ../../cti_manual.rst:23
+msgid "Per poter chiamare puoi digitare il numero di telefono, oppure cercare il nome o numero del tuo contatto nella barra \"Cerca o componi\"."
+msgstr ""
+
+#: ../../cti_manual.rst:28
+msgid "Durante la chiamata si aprirà la *Phone Island*:"
+msgstr ""
+
+#: ../../cti_manual.rst:34
+msgid "La *Phone Island* è il nuovo strumento dedicato alla gestione della telefonata."
+msgstr ""
+
+#: ../../cti_manual.rst:36
+msgid "Tramite la *Phone Island* è possibile:"
+msgstr ""
+
+#: ../../cti_manual.rst:37
+msgid "Mettere in pausa la telefonata;"
+msgstr ""
+
+#: ../../cti_manual.rst:38
+msgid "Silenziare il microfono;"
+msgstr ""
+
+#: ../../cti_manual.rst:39
+msgid "Trasferire la chiamata: una volta cliccato digitare il nome o il numero del contatto a cui vuoi trasferire;"
+msgstr ""
+
+#: ../../cti_manual.rst:40
+msgid "Aprire il tastierino numerico;"
+msgstr ""
+
+#: ../../cti_manual.rst:41
+msgid "Parcheggiare la telefonata (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:43
+msgid "La *Phone Island* è uno strumento dinamico che puoi spostare, trascindola, ovunque nello schermo."
+msgstr ""
+
+#: ../../cti_manual.rst:46
+msgid "Gestire la Presence ed il Dispositivo principale"
+msgstr ""
+
+#: ../../cti_manual.rst:47
+msgid "Cliccando sul tuo Avatar NethVoice CTI ti consente di gestire la tua Presence ed il tuo dispositivo telefonico principale."
+msgstr ""
+
+#: ../../cti_manual.rst:50
+msgid "Presence"
+msgstr ""
+
+#: ../../cti_manual.rst:51
+msgid "Comunica ai tuoi colleghi il tuo stato telefonico per far sapere se sei presente o se non puoi ricevere telefonate:"
+msgstr ""
+
+#: ../../cti_manual.rst:57
+msgid "Il colore del tuo stato cambierà di conseguenza."
+msgstr ""
+
+#: ../../cti_manual.rst:60
+msgid "Dispositivo principale"
+msgstr ""
+
+#: ../../cti_manual.rst:61
+msgid "Se hai a disposizione più telefoni puoi scegliere da qui quale utilizzare per telefonare:"
+msgstr ""
+
+#: ../../cti_manual.rst:68
+msgid "Chiamata Rapida e Ultime Chiamate"
+msgstr ""
+
+#: ../../cti_manual.rst:69
+msgid "Puoi aggiungere contatti da chiamare rapidamente tramite il menù di chiamata rapida:"
+msgstr ""
+
+#: ../../cti_manual.rst:75
+msgid "Oppure visualizzare le ultime chiamate fatte o ricevute:"
+msgstr ""
+
+#: ../../cti_manual.rst:82
+msgid "Panello operatore"
+msgstr ""
+
+#: ../../cti_manual.rst:83
+msgid "Ti permette di visualizzare in tempo reale lo stato dei tuoi colleghi:"
+msgstr ""
+
+#: ../../cti_manual.rst:89
+msgid "Da qui puoi chiamarli, controllarne la disponibilità, filtrare ed organizzarne la visualizzazione in pochi click."
+msgstr ""
+
+#: ../../cti_manual.rst:92
+msgid "Code"
+msgstr ""
+
+#: ../../cti_manual.rst:93
+msgid "Se utilizzi le *Code* da qui puoi controllarle:"
+msgstr ""
+
+#: ../../cti_manual.rst:100
+msgid "Gestione delle code:"
+msgstr ""
+
+#: ../../cti_manual.rst:101
+msgid "Controlla le chiamate in arrivo oppure in gestione da parte dei colleghi:"
+msgstr ""
+
+#: ../../cti_manual.rst:107
+msgid "Con il bottone \"Accedi\\Esci\" puoi entrare o uscire da una specifica coda. Con il pulsante \"Pausa\" puoi temporaneamente evitare di ricevere telefonate. Tramite un unico bottone puoi gestire tutte le code contemporaneamente:"
+msgstr ""
+
+#: ../../cti_manual.rst:116
+msgid "Chiamate:"
+msgstr ""
+
+#: ../../cti_manual.rst:117
+msgid "Verifica se hai perso qualche chiamata e richiama i tuoi clienti:"
+msgstr ""
+
+#: ../../cti_manual.rst:124
+#: ../../cti_manual.rst:195
+msgid "Statistiche:"
+msgstr ""
+
+#: ../../cti_manual.rst:125
+msgid "Controlla le tue statiche telefoniche all'interno delle code:"
+msgstr ""
+
+#: ../../cti_manual.rst:132
+msgid "Rubrica"
+msgstr ""
+
+#: ../../cti_manual.rst:133
+msgid "Puoi visualizzare la rubrica di Nethvoice CTI:"
+msgstr ""
+
+#: ../../cti_manual.rst:138
+msgid "Oppure aggiungere nuovi contatti con la funzione \"Crea Contatto\" (soggetto a specifico permesso):"
+msgstr ""
+
+#: ../../cti_manual.rst:146
+msgid "Tramite comodi filtri puoi ricercare le chiamate del tuo interno, gruppo o dell'intero centralino telefonico (soggetto a specifico permesso):"
+msgstr ""
+
+#: ../../cti_manual.rst:153
+msgid "Gestore Code"
+msgstr ""
+
+#: ../../cti_manual.rst:154
+msgid "Da qui puoi amministrare le code configurate sul centralino telefonico (soggetto a specifico permesso):"
+msgstr ""
+
+#: ../../cti_manual.rst:161
+msgid "Dashboard:"
+msgstr ""
+
+#: ../../cti_manual.rst:162
+msgid "Visualizza un riepilogo della situazione di tutte le code configurate sul sistema:"
+msgstr ""
+
+#: ../../cti_manual.rst:167
+msgid "Puoi vedere da qui anche grafici e statistiche."
+msgstr ""
+
+#: ../../cti_manual.rst:170
+msgid "Gestione code:"
+msgstr ""
+
+#: ../../cti_manual.rst:171
+msgid "Per ciascuna coda puoi vedere il dettaglio delle chiamate gestite e governare il comportamento degli agenti:"
+msgstr ""
+
+#: ../../cti_manual.rst:178
+msgid "Clienti non gestiti:"
+msgstr ""
+
+#: ../../cti_manual.rst:179
+msgid "Da qui puoi verificare velocemente se tutte le chiamate sono state risposte:"
+msgstr ""
+
+#: ../../cti_manual.rst:186
+msgid "In tempo reale:"
+msgstr ""
+
+#: ../../cti_manual.rst:187
+msgid "Riepilogo della situazione delle code in tempo reale:"
+msgstr ""
+
+#: ../../cti_manual.rst:192
+msgid "Si possono filtrare le singole code o i singoli operatoti per verificarne l'andamento della giornata lavorativa."
+msgstr ""
+
+#: ../../cti_manual.rst:196
+msgid "Grafici di riepilogo della situazione delle code:"
+msgstr ""
+
+#: ../../cti_manual.rst:203
+msgid "Monitor:"
+msgstr ""
+
+#: ../../cti_manual.rst:204
+msgid "Visualizza su un monitor l'elenco delle chiamate in coda:"
+msgstr ""
+
+#: ../../cti_manual.rst:211
+msgid "Applicazioni"
+msgstr ""
+
+#: ../../cti_manual.rst:217
+msgid "Linee telefoniche e annunci:"
+msgstr ""
+
+#: ../../cti_manual.rst:218
+msgid "Qui trovi e gestisci le linee telefoniche del centralino (soggetto a specifico permesso):"
+msgstr ""
+
+#: ../../cti_manual.rst:225
+msgid "Dettagli linea"
+msgstr ""
+
+#: ../../cti_manual.rst:226
+msgid "Clicca sulla tua linea telefonica per controllare le chiusure:"
+msgstr ""
+
+#: ../../cti_manual.rst:232
+msgid "Potrai da qui controllare:"
+msgstr ""
+
+#: ../../cti_manual.rst:233
+msgid "Quando attivare la chiusura: attivare manualmente la chiusura, selezionare uno specifico giorno o un periodo di inizio e fine automatico;"
+msgstr ""
+
+#: ../../cti_manual.rst:234
+msgid "Far sentire un annuncio;"
+msgstr ""
+
+#: ../../cti_manual.rst:235
+msgid "Far sentire un annuncio e lasciare un messaggio in segreteria telefonica;"
+msgstr ""
+
+#: ../../cti_manual.rst:236
+msgid "Inoltrare la telefonata."
+msgstr ""
+
+#: ../../cti_manual.rst:240
+msgid "Annunci"
+msgstr ""
+
+#: ../../cti_manual.rst:241
+msgid "Tramite il menù Annunci puoi caricare o registrare un nuovo annuncio. Puoi anche riascoltare o eliminare gli annunci già presenti (soggetto a specifico permesso):"
+msgstr ""
+
+#: ../../cti_manual.rst:248
+msgid "Sorgenti video:"
+msgstr ""
+
+#: ../../cti_manual.rst:249
+msgid "Ci stiamo lavorando. Da qui potrai vedere e controllare i tuoi videocitofoni (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:252
+msgid "PBX Report:"
+msgstr ""
+
+#: ../../cti_manual.rst:253
+msgid "La `Reportistica avanzata <https://docs.nethvoice.it/it/latest/pbxreport_manual.html>`_ del centralino telefonico (soggetto a specifico permesso)."
+msgstr ""
+
+#: ../../cti_manual.rst:257
+msgid "Puoi personalizzare il tuo *NethVoice CTI* accedendo alle Impostazioni:"
+msgstr ""
+
+#: ../../cti_manual.rst:263
+msgid "Da qui puoi vedere:"
+msgstr ""
+
+#: ../../cti_manual.rst:264
+msgid "Dispositivi: ti consente di controllare i tuoi telefoni ed il loro stato;"
+msgstr ""
+
+#: ../../cti_manual.rst:265
+msgid "App mobile: genera il codice QR per collegare il tuo `smartphone <https://docs.nethvoice.it/it/latest/app_manual.html>`_ (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:266
+msgid "Scheda cliente: controlla come si comporta la scheda cliente (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:267
+msgid "Code: decidi come automatizzare il tuo accesso alle code (soggetto a specifico permesso);"
+msgstr ""
+
+#: ../../cti_manual.rst:268
+msgid "Immagine profilo: modifica il tuo avatar;"
+msgstr ""
+
+#: ../../cti_manual.rst:269
+msgid "Tema: scegli il tema chiaro o scuro in base alle tue preferenze;"
+msgstr ""
+
+#: ../../cti_manual.rst:270
+msgid "Integrazioni: utile per integrare la tua *Phone Island* con strumenti esterni;"
+msgstr ""
+
+#: ../../cti_manual.rst:271
+msgid "Cache: svuotare la cache del tuo browser può aiutare a risolvere alcuni problemi di caricamento della pagina."
+msgstr ""
+
+#: ../../cti_manual.rst:274
+msgid "Browser Supportati"
+msgstr ""
+
+#: ../../cti_manual.rst:275
+msgid "I Browser attualmente supportati sono:"
+msgstr ""
+
+#: ../../cti_manual.rst:276
+msgid "Google Chrome - Versione 121.0.6167.189"
+msgstr ""
+
+#: ../../cti_manual.rst:277
+msgid "Mozilla Firefox - Versione 123.0"
+msgstr ""
+
+#: ../../cti_manual.rst:278
+msgid "Microsoft Edge - Versione 122.0.2365.59"
+msgstr ""
+
+#: ../../index.rst:9
+msgid "About"
+msgstr ""
+
+#: ../../index.rst:15
+msgid "NethVoice CTI"
+msgstr ""
+
+#: ../../index.rst:21
+msgid "NethVoice APP"
+msgstr ""
+
+#: ../../index.rst:27
+#: ../../introduction.rst:60
+msgid "NethLink"
+msgstr ""
+
+#: ../../index.rst:33
+msgid "Nethvoice Report"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "NethVoice client"
+msgstr ""
+
+#: ../../introduction.rst:5
+msgid "Introduzione"
+msgstr ""
+
+#: ../../introduction.rst:7
+msgid "Questo manuale è rivolto agli utilizzatori finali dei client del centralinoNethVoice. Qui troverete tutte le informazioni necessarie per utilizzare al meglio le interfacce client di NethVoice:"
+msgstr ""
+
+#: ../../introduction.rst:10
+msgid ":ref:`nethcti-section`: applicazione web che permette di gestire le chiamate direttamente dal browser"
+msgstr ""
+
+#: ../../introduction.rst:11
+msgid ":ref:`nethlink-section`: applicazione desktop per Windows e macOS che integra la Phone Island nel sistema operativo"
+msgstr ""
+
+#: ../../introduction.rst:12
+msgid ":ref:`nethvoice-app-section`: applicazione mobile per iOS e Android per la gestione delle chiamate in mobilità"
+msgstr ""
+
+#: ../../introduction.rst:14
+msgid "Il manuale è strutturato per guidarvi nell'utilizzo quotidiano dei client, dalla configurazione iniziale alla gestione avanzata delle chiamate. Ogni sezione contiene istruzioni dettagliate e suggerimenti per sfruttare al meglio le funzionalità disponibili."
+msgstr ""
+
+#: ../../introduction.rst:18
+msgid "`NethVoice <https://docs.nethserver.org/projects/ns8/en/latest/nethvoice.html>`_ è un modulo di `NethServer 8 <https://docs.nethserver.org/projects/ns8/en/latest/>`_ che fornisce un sistema di telefonia VoIP professionale completo."
+msgstr ""
+
+#: ../../introduction.rst:20
+msgid "Tutti i client si integrano con il centralino NethVoice, che fornisce:"
+msgstr ""
+
+#: ../../introduction.rst:22
+msgid "Centralino VoIP professionale basato su Asterisk"
+msgstr ""
+
+#: ../../introduction.rst:23
+msgid "Supporto multitenant"
+msgstr ""
+
+#: ../../introduction.rst:24
+msgid "Gestione avanzata delle code di chiamata"
+msgstr ""
+
+#: ../../introduction.rst:25
+msgid "Registrazione delle chiamate"
+msgstr ""
+
+#: ../../introduction.rst:26
+msgid "Integrazione con sistemi esterni"
+msgstr ""
+
+#: ../../introduction.rst:27
+msgid "Interfaccia di amministrazione web"
+msgstr ""
+
+#: ../../introduction.rst:28
+msgid "Monitoraggio e reportistica"
+msgstr ""
+
+#: ../../introduction.rst:30
+msgid "I client possono essere utilizzati contemporaneamente, permettendo agli utenti di:"
+msgstr ""
+
+#: ../../introduction.rst:32
+msgid "Ricevere chiamate su tutti i dispositivi configurati"
+msgstr ""
+
+#: ../../introduction.rst:33
+msgid "Gestire le chiamate dal dispositivo più comodo"
+msgstr ""
+
+#: ../../introduction.rst:34
+msgid "Mantenere la stessa esperienza utente su tutte le piattaforme"
+msgstr ""
+
+#: ../../introduction.rst:35
+msgid "Accedere alla rubrica aziendale unificata"
+msgstr ""
+
+#: ../../introduction.rst:36
+msgid "Utilizzare le stesse funzionalità di base su tutti i client"
+msgstr ""
+
+#: ../../introduction.rst:41
+msgid "NethCTI"
+msgstr ""
+
+#: ../../introduction.rst:43
+msgid "NethCTI è l'interfaccia web principale di NethVoice, accessibile da qualsiasi browser moderno. Offre funzionalità avanzate come:"
+msgstr ""
+
+#: ../../introduction.rst:46
+msgid "Gestione completa delle chiamate VoIP"
+msgstr ""
+
+#: ../../introduction.rst:47
+msgid "Integrazione con i sistemi informativi aziendali"
+msgstr ""
+
+#: ../../introduction.rst:48
+msgid "Visualizzazione dello stato degli operatori"
+msgstr ""
+
+#: ../../introduction.rst:49
+msgid "Gestione delle code di chiamata"
+msgstr ""
+
+#: ../../introduction.rst:50
+msgid "Registrazione e storico delle chiamate"
+msgstr ""
+
+#: ../../introduction.rst:51
+#: ../../introduction.rst:82
+msgid "Gestione della rubrica aziendale"
+msgstr ""
+
+#: ../../introduction.rst:52
+msgid "Configurazione della segreteria telefonica"
+msgstr ""
+
+#: ../../introduction.rst:53
+msgid "Integrazione con videocitofoni e videocamere IP"
+msgstr ""
+
+#: ../../introduction.rst:55
+msgid "Per maggiori informazioni, consultare la :doc:`documentazione NethCTI <cti_manual>`."
+msgstr ""
+
+#: ../../introduction.rst:62
+msgid "NethLink è un'applicazione desktop basata su Electron che porta la Phone Island di NethCTI fuori dal browser, direttamente nel sistema operativo. Caratteristiche principali:"
+msgstr ""
+
+#: ../../introduction.rst:65
+msgid "Accesso rapido dalla tray bar del sistema"
+msgstr ""
+
+#: ../../introduction.rst:66
+#: ../../link_manual.rst:38
+msgid "Notifiche di sistema integrate"
+msgstr ""
+
+#: ../../introduction.rst:67
+msgid "Gestione delle chiamate in background"
+msgstr ""
+
+#: ../../introduction.rst:68
+msgid "Integrazione con il sistema operativo"
+msgstr ""
+
+#: ../../introduction.rst:69
+msgid "Possibilità di utilizzo contemporaneo con NethCTI"
+msgstr ""
+
+#: ../../introduction.rst:70
+msgid "Supporto per Windows e macOS"
+msgstr ""
+
+#: ../../introduction.rst:72
+msgid "Per maggiori informazioni, consultare la :doc:`documentazione NethLink <link_manual>`."
+msgstr ""
+
+#: ../../introduction.rst:77
+msgid "NethVoice App"
+msgstr ""
+
+#: ../../introduction.rst:79
+msgid "L'app mobile permette di utilizzare il centralino aziendale da smartphone e tablet:"
+msgstr ""
+
+#: ../../introduction.rst:81
+msgid "Chiamate VoIP tramite rete dati/WiFi"
+msgstr ""
+
+#: ../../introduction.rst:83
+msgid "Registro chiamate completo"
+msgstr ""
+
+#: ../../introduction.rst:84
+msgid "Configurazione semplice tramite QR code"
+msgstr ""
+
+#: ../../introduction.rst:85
+msgid "Supporto per iOS e Android"
+msgstr ""
+
+#: ../../introduction.rst:86
+msgid "Integrazione con Android Auto e Apple CarPlay"
+msgstr ""
+
+#: ../../introduction.rst:87
+msgid "Qualità audio ottimizzata per le reti mobili"
+msgstr ""
+
+#: ../../introduction.rst:89
+msgid "Per maggiori informazioni, consultare la :doc:`documentazione NethVoice App <app_manual>`."
+msgstr ""
+
+#: ../../link_manual.rst:7
+msgid "NethLink è un'applicazione desktop basata su Electron che permette di gestire le chiamate VoIP direttamente dal computer. Questa applicazione nasce per portare la Phone Island di NethVoice CTI fuori dal browser nel sistema operativo del PC dell'utente, eliminando la necessità di utilizzare il tab di NethVoice CTI per gestire le telefonate."
+msgstr ""
+
+#: ../../link_manual.rst:11
+msgid "L'applicazione è disponibile per i seguenti sistemi operativi:"
+msgstr ""
+
+#: ../../link_manual.rst:13
+msgid "Windows"
+msgstr ""
+
+#: ../../link_manual.rst:14
+msgid "macOS"
+msgstr ""
+
+#: ../../link_manual.rst:15
+msgid "Linux (AppImage), non ufficialmente supportato"
+msgstr ""
+
+#: ../../link_manual.rst:20
+msgid "NethLink è disponibile come applicazione desktop indipendente. Per installarlo:"
+msgstr ""
+
+#: ../../link_manual.rst:22
+msgid "Accedere a NethVoice CTI"
+msgstr ""
+
+#: ../../link_manual.rst:23
+msgid "Navigare alla sezione \"Impostazioni → Dispositivi\""
+msgstr ""
+
+#: ../../link_manual.rst:24
+msgid "Effettuare il download dell'applicazione nella versione appropriata per il proprio sistema operativo"
+msgstr ""
+
+#: ../../link_manual.rst:25
+msgid "Installare l'applicazione seguendo le istruzioni specifiche del sistema operativo"
+msgstr ""
+
+#: ../../link_manual.rst:27
+msgid "NethLink è disponibile per il download dal sito ufficiale: `nethserver.github.io/nethlink <https://nethserver.github.io/nethlink/>`_"
+msgstr ""
+
+#: ../../link_manual.rst:30
+msgid "Caratteristiche principali"
+msgstr ""
+
+#: ../../link_manual.rst:32
+msgid "Gestione completa delle chiamate dal desktop"
+msgstr ""
+
+#: ../../link_manual.rst:33
+msgid "Integrazione con il sistema telefonico NethVoice"
+msgstr ""
+
+#: ../../link_manual.rst:34
+msgid "Supporto per audio bidirezionale"
+msgstr ""
+
+#: ../../link_manual.rst:35
+msgid "Indicatori di stato della chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:36
+msgid "Gestione della rubrica"
+msgstr ""
+
+#: ../../link_manual.rst:37
+msgid "Supporto per più account"
+msgstr ""
+
+#: ../../link_manual.rst:39
+msgid "Ricerca in rubrica"
+msgstr ""
+
+#: ../../link_manual.rst:40
+msgid "Gestione numeri brevi"
+msgstr ""
+
+#: ../../link_manual.rst:41
+msgid "Visualizzazione chiamate perse"
+msgstr ""
+
+#: ../../link_manual.rst:42
+msgid "Integrazione con la tray bar del sistema operativo"
+msgstr ""
+
+#: ../../link_manual.rst:43
+msgid "Possibilità di utilizzo contemporaneo con NethVoice CTI"
+msgstr ""
+
+#: ../../link_manual.rst:44
+msgid "Scorciatoie da tastiera personalizzabili"
+msgstr ""
+
+#: ../../link_manual.rst:45
+msgid "Supporto per il copia e incolla dei numeri di telefono"
+msgstr ""
+
+#: ../../link_manual.rst:46
+msgid "Integrazione con il sistema di notifiche del sistema operativo"
+msgstr ""
+
+#: ../../link_manual.rst:49
+msgid "Requisiti di sistema"
+msgstr ""
+
+#: ../../link_manual.rst:51
+msgid "Sistemi operativi supportati:"
+msgstr ""
+
+#: ../../link_manual.rst:53
+msgid "Windows (Windows 10 o successivo)"
+msgstr ""
+
+#: ../../link_manual.rst:54
+msgid "macOS (10.15 Catalina o successivo)"
+msgstr ""
+
+#: ../../link_manual.rst:55
+msgid "Microfono e altoparlanti/cuffie funzionanti"
+msgstr ""
+
+#: ../../link_manual.rst:56
+msgid "Connessione internet stabile"
+msgstr ""
+
+#: ../../link_manual.rst:57
+msgid "Account NethVoice configurato"
+msgstr ""
+
+#: ../../link_manual.rst:60
+msgid "Configurazione"
+msgstr ""
+
+#: ../../link_manual.rst:62
+msgid "La configurazione di NethLink è semplice e richiede solo:"
+msgstr ""
+
+#: ../../link_manual.rst:64
+msgid "Inserire il dominio di NethVoice CTI"
+msgstr ""
+
+#: ../../link_manual.rst:65
+msgid "Inserire le proprie credenziali utente"
+msgstr ""
+
+#: ../../link_manual.rst:66
+msgid "Inserire la password"
+msgstr ""
+
+#: ../../link_manual.rst:68
+msgid "Una volta configurato, la Phone Island di NethVoice CTI verrà automaticamente eseguita in NethLink invece che nel browser."
+msgstr ""
+
+#: ../../link_manual.rst:71
+msgid "Configurazione audio"
+msgstr ""
+
+#: ../../link_manual.rst:73
+msgid "Per garantire una qualità ottimale delle chiamate:"
+msgstr ""
+
+#: ../../link_manual.rst:75
+msgid "Selezionare il dispositivo di input (microfono) desiderato"
+msgstr ""
+
+#: ../../link_manual.rst:76
+msgid "Selezionare il dispositivo di output (altoparlanti/cuffie) desiderato"
+msgstr ""
+
+#: ../../link_manual.rst:77
+msgid "Eseguire il test audio per verificare la configurazione"
+msgstr ""
+
+#: ../../link_manual.rst:78
+msgid "Regolare i livelli del volume secondo necessità"
+msgstr ""
+
+#: ../../link_manual.rst:81
+msgid "Configurazione delle scorciatoie da tastiera"
+msgstr ""
+
+#: ../../link_manual.rst:83
+msgid "NethLink permette di personalizzare le scorciatoie da tastiera per le operazioni più comuni:"
+msgstr ""
+
+#: ../../link_manual.rst:85
+msgid "Accedere a \"Profilo → Impostazioni → Scorciatoie\""
+msgstr ""
+
+#: ../../link_manual.rst:86
+msgid "Selezionare l'operazione da configurare"
+msgstr ""
+
+#: ../../link_manual.rst:87
+msgid "Premere la combinazione di tasti desiderata"
+msgstr ""
+
+#: ../../link_manual.rst:88
+msgid "Salvare le impostazioni"
+msgstr ""
+
+#: ../../link_manual.rst:90
+msgid "Al momento le scorciatoie disponibili sono:"
+msgstr ""
+
+#: ../../link_manual.rst:92
+msgid "Avvio chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:95
+msgid "Utilizzo"
+msgstr ""
+
+#: ../../link_manual.rst:100
+msgid "Ci sono diversi modi per effettuare una chiamata:"
+msgstr ""
+
+#: ../../link_manual.rst:102
+msgid "Selezionare il contatto dalla rubrica"
+msgstr ""
+
+#: ../../link_manual.rst:103
+msgid "Cliccare sull'icona del telefono accanto al contatto"
+msgstr ""
+
+#: ../../link_manual.rst:104
+msgid "Attendere la risposta"
+msgstr ""
+
+#: ../../link_manual.rst:105
+msgid "Utilizzare i controlli durante la chiamata:"
+msgstr ""
+
+#: ../../link_manual.rst:107
+msgid "Muto"
+msgstr ""
+
+#: ../../link_manual.rst:108
+msgid "Attesa"
+msgstr ""
+
+#: ../../link_manual.rst:109
+msgid "Trasferimento"
+msgstr ""
+
+#: ../../link_manual.rst:110
+msgid "Termina chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:112
+msgid "In alternativa è possibile:"
+msgstr ""
+
+#: ../../link_manual.rst:114
+msgid "Digitare il numero nel campo di composizione e premere Invio"
+msgstr ""
+
+#: ../../link_manual.rst:115
+msgid "Utilizzare la scorciatoia da tastiera configurata"
+msgstr ""
+
+#: ../../link_manual.rst:116
+msgid "Selezionare un numero di telefono nel sistema operativo e utilizzare la scorciatoia"
+msgstr ""
+
+#: ../../link_manual.rst:117
+msgid "Utilizzare il menu contestuale nel campo di composizione per incollare un numero"
+msgstr ""
+
+#: ../../link_manual.rst:120
+msgid "Ricevere una chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:122
+msgid "All'arrivo di una chiamata, apparirà una notifica"
+msgstr ""
+
+#: ../../link_manual.rst:123
+msgid "Cliccare su \"Rispondi\" per accettare la chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:124
+msgid "Cliccare su \"Rifiuta\" per declinare la chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:125
+msgid "Utilizzare i controlli durante la chiamata"
+msgstr ""
+
+#: ../../link_manual.rst:128
+msgid "Gestione rubrica"
+msgstr ""
+
+#: ../../link_manual.rst:130
+msgid "Aggiungere nuovi contatti"
+msgstr ""
+
+#: ../../link_manual.rst:131
+msgid "Modificare contatti esistenti"
+msgstr ""
+
+#: ../../link_manual.rst:132
+msgid "Organizzare contatti in gruppi"
+msgstr ""
+
+#: ../../link_manual.rst:133
+msgid "Ricercare contatti"
+msgstr ""
+
+#: ../../link_manual.rst:134
+msgid "Importare/esportare contatti"
+msgstr ""
+
+#: ../../link_manual.rst:139
+msgid "NethLink utilizza il sistema di notifiche del sistema operativo per:"
+msgstr ""
+
+#: ../../link_manual.rst:141
+msgid "Avvisare di chiamate in arrivo"
+msgstr ""
+
+#: ../../link_manual.rst:142
+msgid "Mostrare lo stato delle chiamate"
+msgstr ""
+
+#: ../../link_manual.rst:145
+msgid "Risoluzione problemi"
+msgstr ""
+
+#: ../../link_manual.rst:148
+msgid "Problemi audio"
+msgstr ""
+
+#: ../../link_manual.rst:150
+msgid "Verificare che i dispositivi audio siano correttamente collegati"
+msgstr ""
+
+#: ../../link_manual.rst:151
+msgid "Controllare le impostazioni del browser per i permessi audio"
+msgstr ""
+
+#: ../../link_manual.rst:152
+msgid "Eseguire il test audio nella sezione configurazione"
+msgstr ""
+
+#: ../../link_manual.rst:153
+msgid "Verificare che non ci siano altre applicazioni che utilizzano i dispositivi audio"
+msgstr ""
+
+#: ../../link_manual.rst:156
+msgid "Problemi di connessione"
+msgstr ""
+
+#: ../../link_manual.rst:158
+msgid "Verificare la connessione internet e la risoluzione DNS"
+msgstr ""
+
+#: ../../link_manual.rst:159
+msgid "Controllare le credenziali di accesso"
+msgstr ""
+
+#: ../../link_manual.rst:160
+msgid "Verificare che il centralino sia raggiungibile"
+msgstr ""
+
+#: ../../link_manual.rst:163
+msgid "Note importanti"
+msgstr ""
+
+#: ../../link_manual.rst:165
+msgid "NethLink può essere utilizzato contemporaneamente a NethVoice CTI"
+msgstr ""
+
+#: ../../link_manual.rst:166
+msgid "Le chiamate in arrivo verranno ricevute solo sul dispositivo impostato come principale"
+msgstr ""
+
+#: ../../link_manual.rst:167
+msgid "NethLink utilizza le notifiche di sistema per gli avvisi (es. chiamata in arrivo)"
+msgstr ""
+
+#: ../../link_manual.rst:168
+msgid "L'applicazione rimane sempre accessibile dalla tray bar del sistema operativo"
+msgstr ""
+
+#: ../../pbxreport_manual.rst:7
+msgid "Nethvoice Report è la reportistica avanzata `NethVoice <https://www.nethesis.it/soluzioni/nethvoice>`_"
+msgstr ""
